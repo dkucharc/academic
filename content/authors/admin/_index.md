@@ -32,7 +32,7 @@ education:
     - course: MEng in Financial Mathematics
       institution: Wroclaw University Of Science And Technology
       year: 2011
-    - course: BSc(Eng) in Financial Mathematics
+    - course: BEng in Financial Mathematics
       institution: Silesian University Of Technology
       year: 2009
 
@@ -68,7 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-Daniel Kucharczyk is an assitant professor of mathematics at the Faculty Of Applied Mathematics, Wroclaw University of Technology. His research interests include application of mathematics (AI/ML) in the area of finance, anomaly detection and system recommendations. He has several years of business experience working as a quant and solution architect. 
-He is an advocate and practioner of the concept of reproducible research.
+Daniel Kucharczyk is an Assistant Professor with the Faculty od Pure and Applied Mathematics at Wroclaw University of Technology. His research interests include the application of mathematics (AI/ML) in finance, anomaly detection and system recommendations. He has several years of business experience working as a quant and solution architect. He is an advocate and practitioner of the concept of reproducible research.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
