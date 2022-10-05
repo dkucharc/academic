@@ -68,6 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-Daniel Kucharczyk is an Assistant Professor with the Faculty od Pure and Applied Mathematics at Wroclaw University of Technology. His research interests include the application of mathematics (AI/ML) in finance, anomaly detection and system recommendations. He has several years of business experience working as a quant and solution architect. He is an advocate and practitioner of the concept of reproducible research.
+Daniel Kucharczyk is an Assistant Professor with the Faculty od Pure and Applied Mathematics at Wroclaw University of Technology. His research interests include the application of mathematics (AI/ML) in finance, anomaly detection and system recommendations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
