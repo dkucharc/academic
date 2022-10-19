@@ -35,10 +35,10 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Room # xxx
+  directions: Room 5.14, C-11
   office_hours:
-    - 'TBA'
-  # appointment_url: 'https://calendly.com'
+    - Thursday, 1:00 - 3:00 PM
+  appointment_url: 'https://calendly.com/daniel-kucharczyk-pwr/30min'
   # contact_links:
   #   - icon: twitter
   #     icon_pack: fab

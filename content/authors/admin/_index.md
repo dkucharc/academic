@@ -62,12 +62,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'daniel.kucharczyk[at]pwr.edu.pl'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 Daniel Kucharczyk is an Assistant Professor with the Faculty od Pure and Applied Mathematics at Wroclaw University of Technology. His research interests include the application of mathematics (AI/ML) in finance, anomaly detection and system recommendations.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
