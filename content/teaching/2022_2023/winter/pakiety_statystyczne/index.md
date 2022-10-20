@@ -34,11 +34,11 @@ url_video: ''
 Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosków z analiz statystycznych wykonywanych z wykorzystaniem pakietu statystycznego R.
 
 **Zasady zaliczenia**
-- Prezentacja indywidualna (15 pkt).
+- Prezentacja (25 pkt).
 - Aktywność (15 pkt).
-- Sprawozdania w parach (70 pkt), w tym:
-  - statystyka opisowa (35 pkt),
-  - testowanie hipotez (35 pkt).
+- Sprawozdania w parach (60 pkt), w tym:
+  - statystyka opisowa (30 pkt),
+  - testowanie hipotez (30 pkt).
 
 **Zajęcia laboratoryjne:**
 
