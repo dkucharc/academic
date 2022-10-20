@@ -35,6 +35,8 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 
 **Zasady zaliczenia**
 - Prezentacja (25 pkt).
+  - Metody oceny klasyfikacji w praktyce przy użyciu (`caret::confusionMatrix`) 
+  - Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)
 - Aktywność (15 pkt).
 - Sprawozdania w parach (60 pkt), w tym:
   - statystyka opisowa (30 pkt),
@@ -44,7 +46,8 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 
 0. Zajęcia wprowadzające (2022-10-06)
 1. Przegląd cech statystycznych (2022-10-13)
-2. Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-20)
+2. Praktyczne aspekty teorii estymacji (2022-10-20) 
+3. Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)
 
 
 **Materiały pomocnicze**
