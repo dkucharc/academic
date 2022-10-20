@@ -15,4 +15,9 @@
 &lt;li>Zajęcia wprowadzające (2022-10-06)&lt;/li>
 &lt;li>Przegląd cech statystycznych (2022-10-13)&lt;/li>
 &lt;li>Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-20)&lt;/li>
-&lt;/ol></description></item></channel></rss>
+&lt;/ol>
+&lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://yihui.org/knitr/" target="_blank" rel="noopener">&lt;code>knitr&lt;/code>:Elegant, flexible, and fast dynamic report generation with R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bookdown.org/yihui/rmarkdown-cookbook/" target="_blank" rel="noopener">R Markdown Cookbook&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
