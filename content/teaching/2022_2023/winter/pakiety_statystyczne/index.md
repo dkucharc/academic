@@ -46,3 +46,7 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 1. Przegląd cech statystycznych (2022-10-13)
 2. Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-20)
 
+
+**Materiały pomocnicze**
+- [`knitr`:Elegant, flexible, and fast dynamic report generation with R](https://yihui.org/knitr/)
+- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
