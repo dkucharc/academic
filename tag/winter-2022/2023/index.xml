@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Winter (2022/2023) | DK's page</title><link>https://dkucharc.github.io/academic/tag/winter-2022/2023/</link><atom:link href="https://dkucharc.github.io/academic/tag/winter-2022/2023/index.xml" rel="self" type="application/rss+xml"/><description>Winter (2022/2023)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://dkucharc.github.io/academic/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Winter (2022/2023)</title><link>https://dkucharc.github.io/academic/tag/winter-2022/2023/</link></image><item><title>Pakiety Statystyczne</title><link>https://dkucharc.github.io/academic/teaching/2022_2023/winter/pakiety_statystyczne/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2022_2023/winter/pakiety_statystyczne/</guid><description>&lt;p>Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosków z analiz statystycznych wykonywanych z wykorzystaniem pakietu statystycznego R.&lt;/p>
 &lt;p>&lt;strong>Zasady zaliczenia&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>Prezentacja (25 pkt).&lt;/li>
+&lt;li>Prezentacja (25 pkt).
+&lt;ul>
+&lt;li>Metody oceny klasyfikacji w praktyce przy użyciu (&lt;code>caret::confusionMatrix&lt;/code>)&lt;/li>
+&lt;li>Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>Aktywność (15 pkt).&lt;/li>
 &lt;li>Sprawozdania w parach (60 pkt), w tym:
 &lt;ul>
@@ -14,10 +19,11 @@
 &lt;ol start="0">
 &lt;li>Zajęcia wprowadzające (2022-10-06)&lt;/li>
 &lt;li>Przegląd cech statystycznych (2022-10-13)&lt;/li>
-&lt;li>Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-20)&lt;/li>
+&lt;li>Praktyczne aspekty teorii estymacji (2022-10-20)&lt;/li>
+&lt;li>Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://yihui.org/knitr/" target="_blank" rel="noopener">&lt;code>knitr&lt;/code>:Elegant, flexible, and fast dynamic report generation with R&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://yihui.org/knitr/" target="_blank" rel="noopener">&lt;code>knitr&lt;/code>: Elegant, flexible, and fast dynamic report generation with R&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://bookdown.org/yihui/rmarkdown-cookbook/" target="_blank" rel="noopener">R Markdown Cookbook&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
