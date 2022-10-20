@@ -48,5 +48,5 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 
 
 **Materiały pomocnicze**
-- [`knitr`:Elegant, flexible, and fast dynamic report generation with R](https://yihui.org/knitr/)
+- [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.org/knitr/)
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
