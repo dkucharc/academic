@@ -14,8 +14,10 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;ul>
 &lt;li>Prezentacja (25 pkt).
 &lt;ul>
-&lt;li>Metody oceny klasyfikacji w praktyce przy użyciu (&lt;code>caret::confusionMatrix&lt;/code>)&lt;/li>
-&lt;li>Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Metody oceny klasyfikacji w praktyce przy użyciu (&lt;code>caret::confusionMatrix&lt;/code>)&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Estymatory największej wiarygodności i metody optymalizacji (&lt;code>stats4::mle&lt;/code>, &lt;code>stats::nlm&lt;/code>)&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Estymatory momentów centralnych (&lt;code>Umoments&lt;/code>)&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Aktywność (15 pkt).&lt;/li>
