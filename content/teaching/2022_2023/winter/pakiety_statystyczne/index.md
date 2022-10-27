@@ -35,8 +35,10 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 
 **Zasady zaliczenia**
 - Prezentacja (25 pkt).
-  - Metody oceny klasyfikacji w praktyce przy użyciu (`caret::confusionMatrix`) 
-  - Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)
+  - [x] Metody oceny klasyfikacji w praktyce przy użyciu (`caret::confusionMatrix`) 
+  - [x] Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)
+  - [ ] Estymatory największej wiarygodności i metody optymalizacji (`stats4::mle`, `stats::nlm`) 
+  - [ ] Estymatory momentów centralnych (`Umoments`)
 - Aktywność (15 pkt).
 - Sprawozdania w parach (60 pkt), w tym:
   - statystyka opisowa (30 pkt),

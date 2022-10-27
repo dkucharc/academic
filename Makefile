@@ -1,4 +1,4 @@
 .phony: serve
 
 serve:
-	hugo server -D
+	hugo server -D --cacheDir /tmp
