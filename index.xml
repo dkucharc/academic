@@ -14,10 +14,11 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;ul>
 &lt;li>Prezentacja (25 pkt).
 &lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Metody oceny klasyfikacji w praktyce przy użyciu (&lt;code>caret::confusionMatrix&lt;/code>)&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Estymatory największej wiarygodności i metody optymalizacji (&lt;code>stats4::mle&lt;/code>, &lt;code>stats::nlm&lt;/code>)&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Estymatory momentów centralnych (&lt;code>Umoments&lt;/code>)&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Metody oceny klasyfikacji w praktyce przy użyciu (&lt;code>caret::confusionMatrix&lt;/code>)&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Estymatory największej wiarygodności i metody optymalizacji (&lt;code>stats4::mle&lt;/code>, &lt;code>stats::nlm&lt;/code>)&lt;/li>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Estymatory momentów centralnych (&lt;code>Umoments&lt;/code>)&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &amp;hellip;&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Aktywność (15 pkt).&lt;/li>
@@ -34,6 +35,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>Przegląd cech statystycznych (2022-10-13)&lt;/li>
 &lt;li>Praktyczne aspekty teorii estymacji (2022-10-20)&lt;/li>
 &lt;li>Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)&lt;/li>
+&lt;li>Prezentacje (2022-11-03)&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
 &lt;ul>
