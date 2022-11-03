@@ -35,10 +35,11 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 
 **Zasady zaliczenia**
 - Prezentacja (25 pkt).
-  - [x] Metody oceny klasyfikacji w praktyce przy użyciu (`caret::confusionMatrix`) 
-  - [x] Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)
-  - [ ] Estymatory największej wiarygodności i metody optymalizacji (`stats4::mle`, `stats::nlm`) 
-  - [ ] Estymatory momentów centralnych (`Umoments`)
+  - [x] (2022-11-03) Metody oceny klasyfikacji w praktyce przy użyciu (`caret::confusionMatrix`) 
+  - [x] (2022-11-03) Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)
+  - [x] (2022-11-03) Estymatory największej wiarygodności i metody optymalizacji (`stats4::mle`, `stats::nlm`) 
+  - [x] (2022-11-03) Estymatory momentów centralnych (`Umoments`)
+  - [ ] ...
 - Aktywność (15 pkt).
 - Sprawozdania w parach (60 pkt), w tym:
   - statystyka opisowa (30 pkt),
@@ -50,6 +51,7 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 1. Przegląd cech statystycznych (2022-10-13)
 2. Praktyczne aspekty teorii estymacji (2022-10-20) 
 3. Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)
+4. Prezentacje (2022-11-03)
 
 
 **Materiały pomocnicze**
