@@ -30,7 +30,6 @@
 &lt;ul>
 &lt;li>&lt;a href="https://plotly.com/r/" target="_blank" rel="noopener">plotly&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noopener">ggplot2&lt;/a>&lt;/li>
-&lt;li>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ol>
@@ -39,8 +38,8 @@
 &lt;li>&lt;a href="https://yihui.org/knitr/" target="_blank" rel="noopener">&lt;code>knitr&lt;/code>: Elegant, flexible, and fast dynamic report generation with R&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://bookdown.org/yihui/rmarkdown-cookbook/" target="_blank" rel="noopener">R Markdown Cookbook&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;strong>Ciekawostki&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Dobre praktyki programistyczne w języku R&lt;/strong>&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://style.tidyverse.org/" target="_blank" rel="noopener">Dobre praktyki/Standardy kodowania&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://style.tidyverse.org/" target="_blank" rel="noopener">Standardy kodowania&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.datacamp.com/tutorial/pipe-r-tutorial" target="_blank" rel="noopener">Operator pipe &lt;code>%&amp;gt;%&lt;/code> - wprowadzenie&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
