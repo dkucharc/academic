@@ -59,3 +59,6 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 **Materiały pomocnicze**
 - [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.org/knitr/)
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+**Ciekawostki**
+- [Operator pipe `%>%` - wprowadzenie](https://www.datacamp.com/tutorial/pipe-r-tutorial)
