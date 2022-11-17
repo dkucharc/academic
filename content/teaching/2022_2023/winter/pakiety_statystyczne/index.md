@@ -61,4 +61,5 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
 **Ciekawostki**
+- [Dobre praktyki/Standardy kodowania](https://style.tidyverse.org/)
 - [Operator pipe `%>%` - wprowadzenie](https://www.datacamp.com/tutorial/pipe-r-tutorial)
