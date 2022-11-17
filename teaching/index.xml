@@ -35,5 +35,6 @@
 &lt;/ul>
 &lt;p>&lt;strong>Ciekawostki&lt;/strong>&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://style.tidyverse.org/" target="_blank" rel="noopener">Dobre praktyki/Standardy kodowania&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.datacamp.com/tutorial/pipe-r-tutorial" target="_blank" rel="noopener">Operator pipe &lt;code>%&amp;gt;%&lt;/code> - wprowadzenie&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
