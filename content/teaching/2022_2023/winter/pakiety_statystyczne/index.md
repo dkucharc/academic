@@ -52,8 +52,8 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 2. Praktyczne aspekty teorii estymacji (2022-10-20) 
 3. Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)
 4. Prezentacje (2022-11-03)
-5. ...
-6. Wykresy (2022-11-17) [link](https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html)
+5. Zajęcia odwołane (2022-11-10)
+6. Wykresy (2022-11-17) [Zadanie](https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html)
 
 
 **Materiały pomocnicze**
