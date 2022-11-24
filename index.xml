@@ -37,12 +37,15 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)&lt;/li>
 &lt;li>Prezentacje (2022-11-03)&lt;/li>
 &lt;li>Zajęcia odwołane (2022-11-10)&lt;/li>
-&lt;li>Wykresy (2022-11-17) &lt;a href="https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html" target="_blank" rel="noopener">Zadanie&lt;/a>
+&lt;li>Wykresy (2022-11-17)
+&lt;a href="https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html" target="_blank" rel="noopener">[Zadanie]&lt;/a>
+&lt;strong>Referencje:&lt;/strong>
 &lt;ul>
 &lt;li>&lt;a href="https://plotly.com/r/" target="_blank" rel="noopener">plotly&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noopener">ggplot2&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>Testowanie hipotez - wstęp (2022-11-24)&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
 &lt;ul>
