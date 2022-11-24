@@ -53,10 +53,12 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 3. Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)
 4. Prezentacje (2022-11-03)
 5. Zajęcia odwołane (2022-11-10)
-6. Wykresy (2022-11-17) [Zadanie](https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html)
-   - [plotly](https://plotly.com/r/)
-   - [ggplot2](https://ggplot2.tidyverse.org/)
-
+6. Wykresy (2022-11-17)
+  [[Zadanie]](https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html)
+  **Referencje:**
+      - [plotly](https://plotly.com/r/)
+      - [ggplot2](https://ggplot2.tidyverse.org/)
+7. Testowanie hipotez - wstęp (2022-11-24)
 
 **Materiały pomocnicze**
 - [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.org/knitr/)
