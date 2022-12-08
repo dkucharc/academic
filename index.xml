@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Pakiety Statystyczne</title><link>https://dkucharc.github.io/academic/teaching/2022_2023/winter/pakiety_statystyczne/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2022_2023/winter/pakiety_statystyczne/</guid><description>&lt;p>Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosków z analiz statystycznych wykonywanych z wykorzystaniem pakietu statystycznego R.&lt;/p>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Mathematical aspects of data drift in machine learning</title><link>https://dkucharc.github.io/academic/projects/data_drift/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/data_drift/</guid><description>&lt;p>&lt;strong>Słowa kluczowe/Keywords:&lt;/strong> Miary podobieństwa rozkładów, np. współczynnik stabilności populacji (&lt;em>ang. population stability index&lt;/em>), dywergencja Kullbacka-Leiblera (&lt;em>ang. Kullback-Leiblera divergence&lt;/em>)&lt;/p></description></item><item><title>Pakiety Statystyczne</title><link>https://dkucharc.github.io/academic/teaching/2022_2023/winter/pakiety_statystyczne/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2022_2023/winter/pakiety_statystyczne/</guid><description>&lt;p>Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosków z analiz statystycznych wykonywanych z wykorzystaniem pakietu statystycznego R.&lt;/p>
 &lt;p>&lt;strong>Zasady zaliczenia&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Prezentacja (25 pkt).
@@ -38,16 +38,19 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>Prezentacje (2022-11-03)&lt;/li>
 &lt;li>Zajęcia odwołane (2022-11-10)&lt;/li>
 &lt;li>Wykresy (2022-11-17)
-&lt;a href="https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html" target="_blank" rel="noopener">[Zadanie]&lt;/a>
+&lt;a href="https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html" target="_blank" rel="noopener">[Zadanie]&lt;/a>&lt;/br>
 &lt;strong>Referencje:&lt;/strong>
 &lt;ul>
 &lt;li>&lt;a href="https://plotly.com/r/" target="_blank" rel="noopener">plotly&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noopener">ggplot2&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Testowanie hipotez - wstęp (2022-11-24)&lt;/li>
+&lt;li>Zajęcia odwołane (2022-11-24)&lt;/li>
+&lt;li>Testowanie hipotez - wstęp (2022-12-01)&lt;/li>
+&lt;li>Testowanie hipotez - analiza mocy testów (2022-12-08)&lt;/li>
+&lt;li>Testowanie hipotez - przedziały ufności (2022-12-15)
+&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/li>
 &lt;/ol>
-&lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://yihui.org/knitr/" target="_blank" rel="noopener">&lt;code>knitr&lt;/code>: Elegant, flexible, and fast dynamic report generation with R&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://bookdown.org/yihui/rmarkdown-cookbook/" target="_blank" rel="noopener">R Markdown Cookbook&lt;/a>&lt;/li>
