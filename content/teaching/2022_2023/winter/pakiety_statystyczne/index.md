@@ -54,12 +54,14 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 4. Prezentacje (2022-11-03)
 5. Zajęcia odwołane (2022-11-10)
 6. Wykresy (2022-11-17)
-  [[Zadanie]](https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html)
+  [[Zadanie]](https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html)</br>
   **Referencje:**
       - [plotly](https://plotly.com/r/)
       - [ggplot2](https://ggplot2.tidyverse.org/)
-7. Testowanie hipotez - wstęp (2022-11-24)
-
+7. Zajęcia odwołane (2022-11-24)
+8. Testowanie hipotez - wstęp (2022-12-01)
+9. Testowanie hipotez - analiza mocy testów (2022-12-08)
+10. Testowanie hipotez - przedziały ufności (2022-12-15)
 **Materiały pomocnicze**
 - [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.org/knitr/)
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
