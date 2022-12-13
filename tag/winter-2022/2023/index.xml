@@ -37,9 +37,13 @@
 &lt;li>Zajęcia odwołane (2022-11-24)&lt;/li>
 &lt;li>Testowanie hipotez - wstęp (2022-12-01)&lt;/li>
 &lt;li>Testowanie hipotez - analiza mocy testów (2022-12-08)&lt;/li>
-&lt;li>Testowanie hipotez - przedziały ufności (2022-12-15)
-&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/li>
+&lt;li>Testowanie hipotez - przedziały ufności (2022-12-15)&lt;/li>
+&lt;li>TBA (2022-12-22)&lt;/li>
+&lt;li>TBA (2023-01-12)&lt;/li>
+&lt;li>TBA (2023-01-19)&lt;/li>
+&lt;li>TBA (2022-01-26)&lt;/li>
 &lt;/ol>
+&lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://yihui.org/knitr/" target="_blank" rel="noopener">&lt;code>knitr&lt;/code>: Elegant, flexible, and fast dynamic report generation with R&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://bookdown.org/yihui/rmarkdown-cookbook/" target="_blank" rel="noopener">R Markdown Cookbook&lt;/a>&lt;/li>
