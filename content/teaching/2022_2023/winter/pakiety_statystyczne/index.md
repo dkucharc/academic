@@ -62,6 +62,11 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 8. Testowanie hipotez - wstęp (2022-12-01)
 9. Testowanie hipotez - analiza mocy testów (2022-12-08)
 10. Testowanie hipotez - przedziały ufności (2022-12-15)
+11. TBA (2022-12-22)
+12. TBA (2023-01-12)
+13. TBA (2023-01-19)
+14. TBA (2022-01-26)
+
 **Materiały pomocnicze**
 - [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.org/knitr/)
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
