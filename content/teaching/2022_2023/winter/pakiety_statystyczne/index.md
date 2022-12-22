@@ -61,8 +61,9 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 7. Zajęcia odwołane (2022-11-24)
 8. Testowanie hipotez - wstęp (2022-12-01)
 9. Testowanie hipotez - analiza mocy testów (2022-12-08)
-10. Testowanie hipotez - przedziały ufności (2022-12-15)
-11. TBA (2022-12-22)
+10. Praca zespołowa - projekt 1 (2022-12-15)
+11. Testowanie normalności - analiza symulacyjna testów na podstawie [Mohd Razali, Nornadiah & Yap, Bee. (2011). Power Comparisons of Shapiro-Wilk, Kolmogorov-Smirnov, Lilliefors and Anderson-Darling Tests](https://www.researchgate.net/profile/Bee-Yap/publication/267205556_Power_Comparisons_of_Shapiro-Wilk_Kolmogorov-Smirnov_Lilliefors_and_Anderson-Darling_Tests/links/5477245b0cf29afed61446e1/Power-Comparisons-of-Shapiro-Wilk-Kolmogorov-Smirnov-Lilliefors-and-Anderson-Darling-Tests.pdf) (2022-12-22) 
+
 12. TBA (2023-01-12)
 13. TBA (2023-01-19)
 14. TBA (2022-01-26)
