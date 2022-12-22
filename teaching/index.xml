@@ -20,28 +20,57 @@
 &lt;/ul>
 &lt;p>&lt;strong>Zajęcia laboratoryjne:&lt;/strong>&lt;/p>
 &lt;ol start="0">
-&lt;li>Zajęcia wprowadzające (2022-10-06)&lt;/li>
-&lt;li>Przegląd cech statystycznych (2022-10-13)&lt;/li>
-&lt;li>Praktyczne aspekty teorii estymacji (2022-10-20)&lt;/li>
-&lt;li>Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)&lt;/li>
-&lt;li>Prezentacje (2022-11-03)&lt;/li>
-&lt;li>Zajęcia odwołane (2022-11-10)&lt;/li>
-&lt;li>Wykresy (2022-11-17)
+&lt;li>
+&lt;p>Zajęcia wprowadzające (2022-10-06)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Przegląd cech statystycznych (2022-10-13)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Praktyczne aspekty teorii estymacji (2022-10-20)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Prezentacje (2022-11-03)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Zajęcia odwołane (2022-11-10)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wykresy (2022-11-17)
 &lt;a href="https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html" target="_blank" rel="noopener">[Zadanie]&lt;/a>&lt;/br>
-&lt;strong>Referencje:&lt;/strong>
+&lt;strong>Referencje:&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://plotly.com/r/" target="_blank" rel="noopener">plotly&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noopener">ggplot2&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Zajęcia odwołane (2022-11-24)&lt;/li>
-&lt;li>Testowanie hipotez - wstęp (2022-12-01)&lt;/li>
-&lt;li>Testowanie hipotez - analiza mocy testów (2022-12-08)&lt;/li>
-&lt;li>Testowanie hipotez - przedziały ufności (2022-12-15)&lt;/li>
-&lt;li>TBA (2022-12-22)&lt;/li>
-&lt;li>TBA (2023-01-12)&lt;/li>
-&lt;li>TBA (2023-01-19)&lt;/li>
-&lt;li>TBA (2022-01-26)&lt;/li>
+&lt;li>
+&lt;p>Zajęcia odwołane (2022-11-24)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Testowanie hipotez - wstęp (2022-12-01)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Testowanie hipotez - analiza mocy testów (2022-12-08)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Praca zespołowa - projekt 1 (2022-12-15)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Testowanie normalności - analiza symulacyjna testów na podstawie &lt;a href="https://www.researchgate.net/profile/Bee-Yap/publication/267205556_Power_Comparisons_of_Shapiro-Wilk_Kolmogorov-Smirnov_Lilliefors_and_Anderson-Darling_Tests/links/5477245b0cf29afed61446e1/Power-Comparisons-of-Shapiro-Wilk-Kolmogorov-Smirnov-Lilliefors-and-Anderson-Darling-Tests.pdf" target="_blank" rel="noopener">Mohd Razali, Nornadiah &amp;amp; Yap, Bee. (2011). Power Comparisons of Shapiro-Wilk, Kolmogorov-Smirnov, Lilliefors and Anderson-Darling Tests&lt;/a> (2022-12-22)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>TBA (2023-01-12)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>TBA (2023-01-19)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>TBA (2022-01-26)&lt;/p>
+&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
 &lt;ul>
