@@ -65,13 +65,11 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 11. Testowanie normalności - analiza symulacyjna testów na podstawie [Mohd Razali, Nornadiah & Yap, Bee. (2011). Power Comparisons of Shapiro-Wilk, Kolmogorov-Smirnov, Lilliefors and Anderson-Darling Tests](https://www.researchgate.net/profile/Bee-Yap/publication/267205556_Power_Comparisons_of_Shapiro-Wilk_Kolmogorov-Smirnov_Lilliefors_and_Anderson-Darling_Tests/links/5477245b0cf29afed61446e1/Power-Comparisons-of-Shapiro-Wilk-Kolmogorov-Smirnov-Lilliefors-and-Anderson-Darling-Tests.pdf) (2022-12-22) 
 
 12. Testowanie normalności cd. (2023-01-12)
-13. Prezentacje:
+13. Prezentacje: (2023-01-19)
   - Zarządzanie srodowiskiem `R` i jego zaleznosciami na podstawie [packrat](https://rstudio.github.io/packrat/), [renv](https://rstudio.github.io/renv/articles/renv.html) oraz [conda](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/).
   - Modele regresji w oparciu o biblioteke[caret](https://topepo.github.io/caret/)
   - Analiza danych tabularycznych z wykorzystaniem biblioteki [dplyr](https://dplyr.tidyverse.org/)
   - Python + R = PythonR. Wykorzystanie jezyka programowania `python` w srodowisku `R` na podstawie biblioteki [reticulate](https://rstudio.github.io/reticulate/index.html)
-     
-
 14. TBA (2022-01-26)
 
 **Materiały pomocnicze**
