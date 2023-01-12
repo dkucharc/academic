@@ -72,6 +72,9 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
   - Python + R = PythonR. Wykorzystanie jezyka programowania `python` w srodowisku `R` na podstawie biblioteki [reticulate](https://rstudio.github.io/reticulate/index.html)
 14. TBA (2022-01-26)
 
+**Materiały do samodzielnej nauki (opcjonalne)**
+- Wprowadzenie do koncepcji `reproducible research` na podstawie [kursu](https://www.coursera.org/learn/reproducible-research#syllabus). Tygodnie 1-3. 
+
 **Materiały pomocnicze**
 - [`knitr`: Elegant, flexible, and fast dynamic report generation with R](https://yihui.org/knitr/)
 - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
