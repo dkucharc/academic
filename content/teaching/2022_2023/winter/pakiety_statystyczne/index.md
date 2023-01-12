@@ -64,8 +64,12 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 10. Praca zespołowa - projekt 1 (2022-12-15)
 11. Testowanie normalności - analiza symulacyjna testów na podstawie [Mohd Razali, Nornadiah & Yap, Bee. (2011). Power Comparisons of Shapiro-Wilk, Kolmogorov-Smirnov, Lilliefors and Anderson-Darling Tests](https://www.researchgate.net/profile/Bee-Yap/publication/267205556_Power_Comparisons_of_Shapiro-Wilk_Kolmogorov-Smirnov_Lilliefors_and_Anderson-Darling_Tests/links/5477245b0cf29afed61446e1/Power-Comparisons-of-Shapiro-Wilk-Kolmogorov-Smirnov-Lilliefors-and-Anderson-Darling-Tests.pdf) (2022-12-22) 
 
-12. TBA (2023-01-12)
-13. TBA (2023-01-19)
+12. Testowanie normalności cd. (2023-01-12)
+13. Prezentacje:
+  - Zarządzanie zaleznosciami w projekcie R na podstawie [packrat](https://rstudio.github.io/packrat/), [renv](https://rstudio.github.io/renv/articles/renv.html) oraz [conda](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/).
+  - TBA
+     
+
 14. TBA (2022-01-26)
 
 **Materiały pomocnicze**
