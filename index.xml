@@ -98,6 +98,10 @@ Distribution-Free Uncertainty Quantification&lt;/a>&lt;/li>
 &lt;ol start="14">
 &lt;li>TBA (2022-01-26)&lt;/li>
 &lt;/ol>
+&lt;p>&lt;strong>Materiały do samodzielnej nauki (opcjonalne)&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Wprowadzenie do koncepcji &lt;code>reproducible research&lt;/code> na podstawie &lt;a href="https://www.coursera.org/learn/reproducible-research#syllabus" target="_blank" rel="noopener">kursu&lt;/a>. Tygodnie 1-3.&lt;/li>
+&lt;/ul>
 &lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://yihui.org/knitr/" target="_blank" rel="noopener">&lt;code>knitr&lt;/code>: Elegant, flexible, and fast dynamic report generation with R&lt;/a>&lt;/li>
