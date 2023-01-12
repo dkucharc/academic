@@ -83,14 +83,18 @@ Distribution-Free Uncertainty Quantification&lt;/a>&lt;/li>
 &lt;p>Testowanie normalności - analiza symulacyjna testów na podstawie &lt;a href="https://www.researchgate.net/profile/Bee-Yap/publication/267205556_Power_Comparisons_of_Shapiro-Wilk_Kolmogorov-Smirnov_Lilliefors_and_Anderson-Darling_Tests/links/5477245b0cf29afed61446e1/Power-Comparisons-of-Shapiro-Wilk-Kolmogorov-Smirnov-Lilliefors-and-Anderson-Darling-Tests.pdf" target="_blank" rel="noopener">Mohd Razali, Nornadiah &amp;amp; Yap, Bee. (2011). Power Comparisons of Shapiro-Wilk, Kolmogorov-Smirnov, Lilliefors and Anderson-Darling Tests&lt;/a> (2022-12-22)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>TBA (2023-01-12)&lt;/p>
+&lt;p>Testowanie normalności cd. (2023-01-12)&lt;/p>
 &lt;/li>
 &lt;li>
-&lt;p>TBA (2023-01-19)&lt;/p>
+&lt;p>Prezentacje:&lt;/p>
 &lt;/li>
-&lt;li>
-&lt;p>TBA (2022-01-26)&lt;/p>
-&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Zarządzanie zaleznosciami w projekcie R na podstawie &lt;a href="https://rstudio.github.io/packrat/" target="_blank" rel="noopener">packrat&lt;/a>, &lt;a href="https://rstudio.github.io/renv/articles/renv.html" target="_blank" rel="noopener">renv&lt;/a> oraz &lt;a href="https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/" target="_blank" rel="noopener">conda&lt;/a>.&lt;/li>
+&lt;li>TBA&lt;/li>
+&lt;/ul>
+&lt;ol start="14">
+&lt;li>TBA (2022-01-26)&lt;/li>
 &lt;/ol>
 &lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
 &lt;ul>
