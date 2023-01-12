@@ -70,8 +70,10 @@
 &lt;/li>
 &lt;/ol>
 &lt;ul>
-&lt;li>Zarządzanie zaleznosciami w projekcie R na podstawie &lt;a href="https://rstudio.github.io/packrat/" target="_blank" rel="noopener">packrat&lt;/a>, &lt;a href="https://rstudio.github.io/renv/articles/renv.html" target="_blank" rel="noopener">renv&lt;/a> oraz &lt;a href="https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/" target="_blank" rel="noopener">conda&lt;/a>.&lt;/li>
-&lt;li>TBA&lt;/li>
+&lt;li>Zarządzanie srodowiskiem &lt;code>R&lt;/code> i jego zaleznosciami na podstawie &lt;a href="https://rstudio.github.io/packrat/" target="_blank" rel="noopener">packrat&lt;/a>, &lt;a href="https://rstudio.github.io/renv/articles/renv.html" target="_blank" rel="noopener">renv&lt;/a> oraz &lt;a href="https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/" target="_blank" rel="noopener">conda&lt;/a>.&lt;/li>
+&lt;li>Modele regresji w oparciu o biblioteke&lt;a href="https://topepo.github.io/caret/" target="_blank" rel="noopener">caret&lt;/a>&lt;/li>
+&lt;li>Analiza danych tabularycznych z wykorzystaniem biblioteki &lt;a href="https://dplyr.tidyverse.org/" target="_blank" rel="noopener">dplyr&lt;/a>&lt;/li>
+&lt;li>Python + R = PythonR. Wykorzystanie jezyka programowania &lt;code>python&lt;/code> w srodowisku &lt;code>R&lt;/code> na podstawie biblioteki &lt;a href="https://rstudio.github.io/reticulate/index.html" target="_blank" rel="noopener">reticulate&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;ol start="14">
 &lt;li>TBA (2022-01-26)&lt;/li>
