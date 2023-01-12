@@ -66,8 +66,10 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 
 12. Testowanie normalności cd. (2023-01-12)
 13. Prezentacje:
-  - Zarządzanie zaleznosciami w projekcie R na podstawie [packrat](https://rstudio.github.io/packrat/), [renv](https://rstudio.github.io/renv/articles/renv.html) oraz [conda](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/).
-  - TBA
+  - Zarządzanie srodowiskiem `R` i jego zaleznosciami na podstawie [packrat](https://rstudio.github.io/packrat/), [renv](https://rstudio.github.io/renv/articles/renv.html) oraz [conda](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/).
+  - Modele regresji w oparciu o biblioteke[caret](https://topepo.github.io/caret/)
+  - Analiza danych tabularycznych z wykorzystaniem biblioteki [dplyr](https://dplyr.tidyverse.org/)
+  - Python + R = PythonR. Wykorzystanie jezyka programowania `python` w srodowisku `R` na podstawie biblioteki [reticulate](https://rstudio.github.io/reticulate/index.html)
      
 
 14. TBA (2022-01-26)
