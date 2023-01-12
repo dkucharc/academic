@@ -40,6 +40,10 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
   - [x] (2022-11-03) Estymatory największej wiarygodności i metody optymalizacji (`stats4::mle`, `stats::nlm`) 
   - [x] (2022-11-03) Estymatory momentów centralnych (`Umoments`)
   - [ ] ...
+  - [ ] (2023-01-19) Zarządzanie srodowiskiem `R` i jego zaleznosciami na podstawie [packrat](https://rstudio.github.io/packrat/), [renv](https://rstudio.github.io/renv/articles/renv.html) oraz [conda](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/)
+  - [ ] (2023-01-19) Modele regresji liniowej  w oparciu o bibliotekę [caret](https://topepo.github.io/caret/) na podstawie [artykulu](https://www.pluralsight.com/guides/linear-lasso-and-ridge-regression-with-r)
+  - [ ] (2023-01-19) Analiza danych tabularycznych z wykorzystaniem biblioteki [dplyr](https://dplyr.tidyverse.org/)
+  - [ ] (2023-01-19) `Python + R = PythonR`. Wykorzystanie języka programowania `python` w środowisku `R` na podstawie biblioteki [reticulate](https://rstudio.github.io/reticulate/index.html)
 - Aktywność (15 pkt).
 - Sprawozdania w parach (60 pkt), w tym:
   - statystyka opisowa (30 pkt),
@@ -66,10 +70,6 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 
 12. Testowanie normalności cd. (2023-01-12)
 13. Prezentacje: (2023-01-19)
-    - Zarządzanie srodowiskiem `R` i jego zaleznosciami na podstawie [packrat](https://rstudio.github.io/packrat/), [renv](https://rstudio.github.io/renv/articles/renv.html) oraz [conda](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/)
-    - Modele regresji liniowej  w oparciu o bibliotekę [caret](https://topepo.github.io/caret/) na podstawie [artykulu](https://www.pluralsight.com/guides/linear-lasso-and-ridge-regression-with-r)
-    - Analiza danych tabularycznych z wykorzystaniem biblioteki [dplyr](https://dplyr.tidyverse.org/)
-    - `Python + R = PythonR`. Wykorzystanie języka programowania `python` w środowisku `R` na podstawie biblioteki [reticulate](https://rstudio.github.io/reticulate/index.html)
 14. TBA (2022-01-26)
 
 **Zalecane materiały w ramach pracy własnej**
