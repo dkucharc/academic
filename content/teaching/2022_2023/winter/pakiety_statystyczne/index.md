@@ -66,10 +66,10 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 
 12. Testowanie normalności cd. (2023-01-12)
 13. Prezentacje: (2023-01-19)
-  - Zarządzanie srodowiskiem `R` i jego zaleznosciami na podstawie [packrat](https://rstudio.github.io/packrat/), [renv](https://rstudio.github.io/renv/articles/renv.html) oraz [conda](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/)
-  - Modele regresji liniowej  w oparciu o bibliotekę [caret](https://topepo.github.io/caret/) na podstawie [artykulu](https://www.pluralsight.com/guides/linear-lasso-and-ridge-regression-with-r)
-  - Analiza danych tabularycznych z wykorzystaniem biblioteki [dplyr](https://dplyr.tidyverse.org/)
-  - `Python + R = PythonR`. Wykorzystanie języka programowania `python` w środowisku `R` na podstawie biblioteki [reticulate](https://rstudio.github.io/reticulate/index.html)
+    - Zarządzanie srodowiskiem `R` i jego zaleznosciami na podstawie [packrat](https://rstudio.github.io/packrat/), [renv](https://rstudio.github.io/renv/articles/renv.html) oraz [conda](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/)
+    - Modele regresji liniowej  w oparciu o bibliotekę [caret](https://topepo.github.io/caret/) na podstawie [artykulu](https://www.pluralsight.com/guides/linear-lasso-and-ridge-regression-with-r)
+    - Analiza danych tabularycznych z wykorzystaniem biblioteki [dplyr](https://dplyr.tidyverse.org/)
+    - `Python + R = PythonR`. Wykorzystanie języka programowania `python` w środowisku `R` na podstawie biblioteki [reticulate](https://rstudio.github.io/reticulate/index.html)
 14. TBA (2022-01-26)
 
 **Zalecane materiały w ramach pracy własnej**
