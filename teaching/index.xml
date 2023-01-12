@@ -8,6 +8,10 @@
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Estymatory największej wiarygodności i metody optymalizacji (&lt;code>stats4::mle&lt;/code>, &lt;code>stats::nlm&lt;/code>)&lt;/li>
 &lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Estymatory momentów centralnych (&lt;code>Umoments&lt;/code>)&lt;/li>
 &lt;li>&lt;input disabled="" type="checkbox"> &amp;hellip;&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> (2023-01-19) Zarządzanie srodowiskiem &lt;code>R&lt;/code> i jego zaleznosciami na podstawie &lt;a href="https://rstudio.github.io/packrat/" target="_blank" rel="noopener">packrat&lt;/a>, &lt;a href="https://rstudio.github.io/renv/articles/renv.html" target="_blank" rel="noopener">renv&lt;/a> oraz &lt;a href="https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/" target="_blank" rel="noopener">conda&lt;/a>&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> (2023-01-19) Modele regresji liniowej w oparciu o bibliotekę &lt;a href="https://topepo.github.io/caret/" target="_blank" rel="noopener">caret&lt;/a> na podstawie &lt;a href="https://www.pluralsight.com/guides/linear-lasso-and-ridge-regression-with-r" target="_blank" rel="noopener">artykulu&lt;/a>&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> (2023-01-19) Analiza danych tabularycznych z wykorzystaniem biblioteki &lt;a href="https://dplyr.tidyverse.org/" target="_blank" rel="noopener">dplyr&lt;/a>&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> (2023-01-19) &lt;code>Python + R = PythonR&lt;/code>. Wykorzystanie języka programowania &lt;code>python&lt;/code> w środowisku &lt;code>R&lt;/code> na podstawie biblioteki &lt;a href="https://rstudio.github.io/reticulate/index.html" target="_blank" rel="noopener">reticulate&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Aktywność (15 pkt).&lt;/li>
@@ -67,12 +71,6 @@
 &lt;/li>
 &lt;li>
 &lt;p>Prezentacje: (2023-01-19)&lt;/p>
-&lt;ul>
-&lt;li>Zarządzanie srodowiskiem &lt;code>R&lt;/code> i jego zaleznosciami na podstawie &lt;a href="https://rstudio.github.io/packrat/" target="_blank" rel="noopener">packrat&lt;/a>, &lt;a href="https://rstudio.github.io/renv/articles/renv.html" target="_blank" rel="noopener">renv&lt;/a> oraz &lt;a href="https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/" target="_blank" rel="noopener">conda&lt;/a>&lt;/li>
-&lt;li>Modele regresji liniowej w oparciu o bibliotekę &lt;a href="https://topepo.github.io/caret/" target="_blank" rel="noopener">caret&lt;/a> na podstawie &lt;a href="https://www.pluralsight.com/guides/linear-lasso-and-ridge-regression-with-r" target="_blank" rel="noopener">artykulu&lt;/a>&lt;/li>
-&lt;li>Analiza danych tabularycznych z wykorzystaniem biblioteki &lt;a href="https://dplyr.tidyverse.org/" target="_blank" rel="noopener">dplyr&lt;/a>&lt;/li>
-&lt;li>&lt;code>Python + R = PythonR&lt;/code>. Wykorzystanie języka programowania &lt;code>python&lt;/code> w środowisku &lt;code>R&lt;/code> na podstawie biblioteki &lt;a href="https://rstudio.github.io/reticulate/index.html" target="_blank" rel="noopener">reticulate&lt;/a>&lt;/li>
-&lt;/ul>
 &lt;/li>
 &lt;li>
 &lt;p>TBA (2022-01-26)&lt;/p>
