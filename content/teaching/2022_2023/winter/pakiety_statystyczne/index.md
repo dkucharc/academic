@@ -70,7 +70,7 @@ Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosk
 
 12. Testowanie normalności cd. (2023-01-12)
 13. Prezentacje: (2023-01-19)
-14. TBA (2022-01-26)
+14. Zarządzanie środowiskiem programistycznym R na przykladzie [packrat](https://rstudio.github.io/packrat/), [renv](https://rstudio.github.io/renv/articles/renv.html) oraz [conda](https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/) (2022-01-26)
 
 **Zalecane materiały w ramach pracy własnej**
 - Wprowadzenie do koncepcji `reproducible research` na podstawie [kursu](https://www.coursera.org/learn/reproducible-research#syllabus). Tygodnie 1-3. 
