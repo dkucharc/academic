@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Summer (2022/2023) | DK's page</title><link>https://dkucharc.github.io/academic/tag/summer-2022/2023/</link><atom:link href="https://dkucharc.github.io/academic/tag/summer-2022/2023/index.xml" rel="self" type="application/rss+xml"/><description>Summer (2022/2023)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://dkucharc.github.io/academic/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Summer (2022/2023)</title><link>https://dkucharc.github.io/academic/tag/summer-2022/2023/</link></image><item><title>Economathematics</title><link>https://dkucharc.github.io/academic/teaching/2022_2023/summer/economathematics/</link><pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2022_2023/summer/economathematics/</guid><description>&lt;p>&lt;strong>Basic information&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Form of the classes: tutorials&lt;/li>
+&lt;li>Lecturer: &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma" target="_blank" rel="noopener">prof. Zbigniew Palmowski, DSc, PhD&lt;/a>&lt;/li>
+&lt;li>Audience: Students of Applied Mathematics, Faculty of Pure and Applied Mathematics (W-13), 1&lt;sup>st&lt;/sup> semestr&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Time and place of the classes&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Fridays, 9:15 AM - 11:00 AM (Building C-19, Room: A.1.3)&lt;/li>
+&lt;li>Fridays, 11:15 AM - 1:00 PM (Building C-19, Room: A.1.3)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Grading rules&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>During the term there will be one &lt;strong>test&lt;/strong> and one &lt;strong>exam&lt;/strong>.&lt;/li>
+&lt;li>The &lt;strong>test&lt;/strong> will take place during the tutorials, around the 9&lt;sup>th&lt;/sup> week of the classes. The maximum number of points to be scored at the test is 70 points.&lt;/li>
+&lt;li>The &lt;strong>exam&lt;/strong> will take place at the end of the term, during the exam session. The maximum number of points to be scored at the exam is also 70 points.&lt;/li>
+&lt;li>Evert student have an obligation to solve &lt;strong>at least one problem&lt;/strong> from the official &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/econ.html" target="_blank" rel="noopener">problem lists&lt;/a>. This form of scoring points is called &lt;strong>in-class activity&lt;/strong>.&lt;/li>
+&lt;li>For each completely solved problem, a student can score 10 points. The problem is considered to be fully solved when the following requirements are met:
+&lt;ul>
+&lt;li>the solution is correct,&lt;/li>
+&lt;li>the solution is presented during the classes,&lt;/li>
+&lt;li>the presented solution has to be delivered in the &lt;a href="https://pl.wikipedia.org/wiki/LaTeX" target="_blank" rel="noopener">&lt;code>LaTeX&lt;/code>&lt;/a> format to the &lt;a href="mailto:daniel.kucharczyk[at]pwr.edu.pl">tutor&amp;rsquo;s email&lt;/a>.
+The provided &lt;code>LaTeX&lt;/code> file is meant to be based on the following &lt;a href="....">template&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>A student cannot score more than a total of &lt;strong>70&lt;/strong> points from the &lt;strong>test&lt;/strong> and from &lt;strong>in-class activity&lt;/strong>. Scoring &lt;strong>70 points&lt;/strong> that way frees the student from the obligation of taking a written part of the exam and guarantees him/her the final &lt;strong>5.0&lt;/strong> grade in advance.&lt;/li>
+&lt;li>Students being graded below &lt;strong>70&lt;/strong> points (from the &lt;strong>test&lt;/strong> and from &lt;strong>in-class activity&lt;/strong>) have an obligation to take an exam.
+The final grade from the class is given in reference to the &lt;strong>sum&lt;/strong> of the scores achieved from &lt;strong>test&lt;/strong>, the &lt;strong>in-class activity&lt;/strong> and the &lt;strong>exam&lt;/strong> and it can derived from the table given below.
+&lt;/br>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">Points&lt;/th>
+&lt;th style="text-align:center">Grade&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">&amp;lt; 65&lt;/td>
+&lt;td style="text-align:center">2.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[65;80)&lt;/td>
+&lt;td style="text-align:center">3.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[80;90)&lt;/td>
+&lt;td style="text-align:center">3.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[90;105)&lt;/td>
+&lt;td style="text-align:center">4.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[105;120)&lt;/td>
+&lt;td style="text-align:center">4.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&amp;lt;= 120&lt;/td>
+&lt;td style="text-align:center">5.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;/br>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">&lt;strong>Note&lt;/strong>: There is a possibility of getting an excellent (5.5) grade. People aiming to get it will be asked to take an extra (oral) part of the exam. A willingness to take the exam should be accepted by the Tutor and reported to the Lecturer, accordingly.&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Timelines:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Week 1 (&lt;code>2023-03-03&lt;/code>) - Skipped class due to Dean&amp;rsquo;s hours.&lt;/li>
+&lt;li>Week 2 (&lt;code>2023-03-10&lt;/code>) - Binomial option pricing models. &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista12021.pdf" target="_blank" rel="noopener">Problem Sheet#1&lt;/a>
+&lt;blockquote>
+&lt;p>Solved problems: 1, 2, 3 &lt;/br>&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>Week 3 (&lt;code>2023-03-17&lt;/code>) - Introduction to the stochastic differential equations (SDEs) and stochastic integrals.
+s. &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf" target="_blank" rel="noopener">Problem Sheet#2&lt;/a>&lt;/li>
+&lt;li>Week 4 (&lt;code>2023-03-24&lt;/code>) - TBA&lt;/li>
+&lt;li>Week 5 (&lt;code>2023-03-31&lt;/code>) - TBA&lt;/li>
+&lt;/ul></description></item></channel></rss>
