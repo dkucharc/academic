@@ -27,17 +27,18 @@ content:
   # Contact details (edit or remove options as required)
   email: daniel.kucharczyk[at]pwr.edu.pl
   address:
-    street: Wizards' Tower, Janiszewskiego 14a
-    city: Wroclaw
-    postcode: '50-372'
+    street: Hoene-Wrońskiego 13, C-19 Building
+    city: Wrocław
+    postcode: '50-376'
     country: Poland
     country_code: PL
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Room 5.14, C-11
+  directions: Room A 3.23, C-19
   office_hours:
-    - Thursday, 1:00 - 3:00 PM
+    - Friday, 8:00 - 9:00 AM, 1:00 - 2:00 PM
+
   appointment_url: 'https://calendly.com/daniel-kucharczyk-pwr/30min'
   # contact_links:
   #   - icon: twitter
