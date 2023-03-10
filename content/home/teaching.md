@@ -28,9 +28,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Summer (2022/2023)
+      tag: Summer (2022/2023)
     - name: Winter (2022/2023)
       tag: Winter (2022/2023)
-
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
