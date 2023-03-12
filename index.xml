@@ -31,7 +31,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>the solution is correct,&lt;/li>
 &lt;li>the solution is presented during the classes,&lt;/li>
 &lt;li>the presented solution has to be delivered in the &lt;a href="https://pl.wikipedia.org/wiki/LaTeX" target="_blank" rel="noopener">&lt;code>LaTeX&lt;/code>&lt;/a> format to the &lt;a href="mailto:daniel.kucharczyk[at]pwr.edu.pl">tutor&amp;rsquo;s email&lt;/a>.
-The provided &lt;code>LaTeX&lt;/code> file is meant to be based on the following &lt;a href="....">template&lt;/a>.&lt;/li>
+The provided &lt;code>LaTeX&lt;/code> file is meant to be based on the following &lt;a href="files/assignment_template.tex">template&lt;/a>.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>A student cannot score more than a total of &lt;strong>70&lt;/strong> points from the &lt;strong>test&lt;/strong> and from &lt;strong>in-class activity&lt;/strong>. Scoring &lt;strong>70 points&lt;/strong> that way frees the student from the obligation of taking a written part of the exam and guarantees him/her the final &lt;strong>5.0&lt;/strong> grade in advance.&lt;/li>
