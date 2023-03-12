@@ -52,7 +52,7 @@ url_video: ''
   - the solution is correct, 
   - the solution is presented during the classes,
   - the presented solution has to be delivered in the [`LaTeX`](https://pl.wikipedia.org/wiki/LaTeX) format to the [tutor's email](mailto:daniel.kucharczyk[at]pwr.edu.pl). 
-  The provided `LaTeX` file is meant to be based on the following [template](....). 
+  The provided `LaTeX` file is meant to be based on the following [template](files/assignment_template.tex). 
 - A student cannot score more than a total of **70** points from the **test** and from **in-class activity**. Scoring **70 points** that way frees the student from the obligation of taking a written part of the exam and guarantees him/her the final **5.0** grade in advance.  
 - Students being graded below **70** points (from the **test** and from **in-class activity**) have an obligation to take an exam. 
 The final grade from the class is given in reference to the **sum** of the scores achieved from **test**, the **in-class activity** and the **exam** and it can derived from the table given below.
