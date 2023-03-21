@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Economathematics</title><link>https://dkucharc.github.io/academic/teaching/2022_2023/summer/economathematics/</link><pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2022_2023/summer/economathematics/</guid><description>&lt;p>&lt;strong>Basic information&lt;/strong>&lt;/p>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Matrix factorization techniques for recommender systems</title><link>https://dkucharc.github.io/academic/projects/factorization_machines/</link><pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/factorization_machines/</guid><description/></item><item><title>Economathematics</title><link>https://dkucharc.github.io/academic/teaching/2022_2023/summer/economathematics/</link><pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2022_2023/summer/economathematics/</guid><description>&lt;p>&lt;strong>Basic information&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>Form of the classes: tutorials&lt;/li>
 &lt;li>Lecturer: &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma" target="_blank" rel="noopener">prof. Zbigniew Palmowski, DSc, PhD&lt;/a>&lt;/li>
@@ -94,106 +94,6 @@ The final grade from the class is given in reference to the &lt;strong>sum&lt;/s
 s. &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf" target="_blank" rel="noopener">Problem Sheet#2&lt;/a>&lt;/li>
 &lt;li>Week 4 (&lt;code>2023-03-24&lt;/code>) - TBA&lt;/li>
 &lt;li>Week 5 (&lt;code>2023-03-31&lt;/code>) - TBA&lt;/li>
-&lt;/ul></description></item><item><title>Conformal Prediction and Distribution-Free Uncertainty Quantification</title><link>https://dkucharc.github.io/academic/projects/darts/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/darts/</guid><description>&lt;p>&lt;strong>Literatura:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://arxiv.org/pdf/2107.07511.pdf" target="_blank" rel="noopener">A Gentle Introduction to Conformal Prediction and
-Distribution-Free Uncertainty Quantification&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://jmlr.csail.mit.edu/papers/volume9/shafer08a/shafer08a.pdf" target="_blank" rel="noopener">A Tutorial on Conformal Prediction&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://mapie.readthedocs.io/en/latest/index.html" target="_blank" rel="noopener">MAPIE - Model Agnostic Prediction Interval Estimator&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Mathematical aspects of data drift in machine learning</title><link>https://dkucharc.github.io/academic/projects/data_drift/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/data_drift/</guid><description>&lt;p>&lt;strong>Słowa kluczowe/Keywords:&lt;/strong> Miary podobieństwa rozkładów, np. współczynnik stabilności populacji (&lt;em>ang. population stability index&lt;/em>), dywergencja Kullbacka-Leiblera (&lt;em>ang. Kullback-Leiblera divergence&lt;/em>)&lt;/p></description></item><item><title>Open-source time series forecasting model implementation</title><link>https://dkucharc.github.io/academic/projects/conformal_prediction/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/conformal_prediction/</guid><description>&lt;p>&lt;strong>Literatura/Oprogramowanie:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/unit8co/darts" target="_blank" rel="noopener">Official GitHub repository&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Pakiety Statystyczne</title><link>https://dkucharc.github.io/academic/teaching/2022_2023/winter/pakiety_statystyczne/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2022_2023/winter/pakiety_statystyczne/</guid><description>&lt;p>Zajęcia będą się skupiać na przedstawieniu prawidłowego wyciągania wniosków z analiz statystycznych wykonywanych z wykorzystaniem pakietu statystycznego R.&lt;/p>
-&lt;p>&lt;strong>Zasady zaliczenia&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Prezentacja (25 pkt).
-&lt;ul>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Metody oceny klasyfikacji w praktyce przy użyciu (&lt;code>caret::confusionMatrix&lt;/code>)&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Nieparametryczne metody estymacji (estymatory typu Jacknife, Bootstrap)&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Estymatory największej wiarygodności i metody optymalizacji (&lt;code>stats4::mle&lt;/code>, &lt;code>stats::nlm&lt;/code>)&lt;/li>
-&lt;li>&lt;input checked="" disabled="" type="checkbox"> (2022-11-03) Estymatory momentów centralnych (&lt;code>Umoments&lt;/code>)&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> &amp;hellip;&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> (2023-01-19) Zarządzanie srodowiskiem &lt;code>R&lt;/code> i jego zaleznosciami na podstawie &lt;a href="https://rstudio.github.io/packrat/" target="_blank" rel="noopener">packrat&lt;/a>, &lt;a href="https://rstudio.github.io/renv/articles/renv.html" target="_blank" rel="noopener">renv&lt;/a> oraz &lt;a href="https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/" target="_blank" rel="noopener">conda&lt;/a>&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> (2023-01-19) Modele regresji liniowej w oparciu o bibliotekę &lt;a href="https://topepo.github.io/caret/" target="_blank" rel="noopener">caret&lt;/a> na podstawie &lt;a href="https://www.pluralsight.com/guides/linear-lasso-and-ridge-regression-with-r" target="_blank" rel="noopener">artykulu&lt;/a>&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> (2023-01-19) Analiza danych tabularycznych z wykorzystaniem biblioteki &lt;a href="https://dplyr.tidyverse.org/" target="_blank" rel="noopener">dplyr&lt;/a>&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> (2023-01-19) &lt;code>Python + R = PythonR&lt;/code>. Wykorzystanie języka programowania &lt;code>python&lt;/code> w środowisku &lt;code>R&lt;/code> na podstawie biblioteki &lt;a href="https://rstudio.github.io/reticulate/index.html" target="_blank" rel="noopener">reticulate&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Aktywność (15 pkt).&lt;/li>
-&lt;li>Sprawozdania w parach (60 pkt), w tym:
-&lt;ul>
-&lt;li>statystyka opisowa (30 pkt),&lt;/li>
-&lt;li>testowanie hipotez (30 pkt).&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Zajęcia laboratoryjne:&lt;/strong>&lt;/p>
-&lt;ol start="0">
-&lt;li>
-&lt;p>Zajęcia wprowadzające (2022-10-06)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Przegląd cech statystycznych (2022-10-13)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Praktyczne aspekty teorii estymacji (2022-10-20)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Metody estymacji i metody oceny estymatorów oraz klasyfikatorów (2022-10-27)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Prezentacje (2022-11-03)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Zajęcia odwołane (2022-11-10)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Wykresy (2022-11-17)
-&lt;a href="https://biocorecrg.github.io/CRG_RIntroduction/exercise-12-ggplot2.html" target="_blank" rel="noopener">[Zadanie]&lt;/a>&lt;/br>
-&lt;strong>Referencje:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://plotly.com/r/" target="_blank" rel="noopener">plotly&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noopener">ggplot2&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;p>Zajęcia odwołane (2022-11-24)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Testowanie hipotez - wstęp (2022-12-01)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Testowanie hipotez - analiza mocy testów (2022-12-08)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Praca zespołowa - projekt 1 (2022-12-15)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Testowanie normalności - analiza symulacyjna testów na podstawie &lt;a href="https://www.researchgate.net/profile/Bee-Yap/publication/267205556_Power_Comparisons_of_Shapiro-Wilk_Kolmogorov-Smirnov_Lilliefors_and_Anderson-Darling_Tests/links/5477245b0cf29afed61446e1/Power-Comparisons-of-Shapiro-Wilk-Kolmogorov-Smirnov-Lilliefors-and-Anderson-Darling-Tests.pdf" target="_blank" rel="noopener">Mohd Razali, Nornadiah &amp;amp; Yap, Bee. (2011). Power Comparisons of Shapiro-Wilk, Kolmogorov-Smirnov, Lilliefors and Anderson-Darling Tests&lt;/a> (2022-12-22)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Testowanie normalności cd. (2023-01-12)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Prezentacje: (2023-01-19)&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Zarządzanie środowiskiem programistycznym R na przykladzie &lt;a href="https://rstudio.github.io/packrat/" target="_blank" rel="noopener">packrat&lt;/a>, &lt;a href="https://rstudio.github.io/renv/articles/renv.html" target="_blank" rel="noopener">renv&lt;/a> oraz &lt;a href="https://docs.anaconda.com/anaconda/user-guide/tasks/using-r-language/" target="_blank" rel="noopener">conda&lt;/a> (2022-01-26)&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;p>&lt;strong>Zalecane materiały w ramach pracy własnej&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Wprowadzenie do koncepcji &lt;code>reproducible research&lt;/code> na podstawie &lt;a href="https://www.coursera.org/learn/reproducible-research#syllabus" target="_blank" rel="noopener">kursu&lt;/a>. Tygodnie 1-3.&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Materiały pomocnicze&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://yihui.org/knitr/" target="_blank" rel="noopener">&lt;code>knitr&lt;/code>: Elegant, flexible, and fast dynamic report generation with R&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://bookdown.org/yihui/rmarkdown-cookbook/" target="_blank" rel="noopener">R Markdown Cookbook&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Dobre praktyki programistyczne w języku R&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://style.tidyverse.org/" target="_blank" rel="noopener">Standardy kodowania&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.datacamp.com/tutorial/pipe-r-tutorial" target="_blank" rel="noopener">Operator pipe &lt;code>%&amp;gt;%&lt;/code> - wprowadzenie&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://dkucharc.github.io/academic/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
