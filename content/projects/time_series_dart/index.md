@@ -1,5 +1,5 @@
 ---
-title: 'Matrix factorization techniques for recommender systems'
+title: 'Time-series forecasting models based on DART'
 # subtitle: 'Matematyczne aspekty koncepcji dryftu danych w kontekście współczesnych metod uczenia maszynowego'
 
 # Authors
@@ -28,20 +28,20 @@ publication_types: ['7']
 # (abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.)
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.)
 
-tags: ["Master", "Booked"]
+tags: ["Bachelor", "Free", "ML", "Time Series"]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#  url: http://example.org
+#  - name: Custom Link
+#    url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/5197422'
-url_code: ''
+url_pdf: 'https://www.jmlr.org/papers/v23/21-1177.html#:~:text=%5Babs%5D%5B-,pdf,-%5D%5Bbib%5D%20%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%20%5B'
+url_code: 'https://github.com/unit8co/darts'
 url_dataset: ''
 url_poster: ''
 url_project: 'dd'

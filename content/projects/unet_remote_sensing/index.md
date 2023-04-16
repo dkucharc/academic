@@ -1,5 +1,5 @@
 ---
-title: 'Matrix factorization techniques for recommender systems'
+title: 'Semantic segmentation using UNet archicture on remote sensing data'
 # subtitle: 'Matematyczne aspekty koncepcji dryftu danych w kontekście współczesnych metod uczenia maszynowego'
 
 # Authors
@@ -28,19 +28,19 @@ publication_types: ['7']
 # (abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.)
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.)
 
-tags: ["Master", "Booked"]
+tags: ["Bachelor", "Free", "ML", "Remote Sensing"]
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#  url: http://example.org
+#  - name: Custom Link
+#    url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/5197422'
+url_pdf: 'https://isprs-archives.copernicus.org/articles/XLIII-B3-2022/119/2022/isprs-archives-XLIII-B3-2022-119-2022.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

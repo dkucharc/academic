@@ -11,7 +11,7 @@ headless: true
 weight: 90
 
 title: Research Projects
-subtitle: 'Currated list of potential research projects'
+subtitle: 'List of currently held and potential research projects'
 
 content:
   # Filter on criteria

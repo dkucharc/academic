@@ -14,12 +14,12 @@ organizations:
     url: https://wmat.pwr.edu.pl/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include application of mathematics (AI/ML) in the area of finance, anomaly detection and system recommendations. 
+# (bio: My research interests include application of mathematics &#40;AI/ML&#41; in the area of finance, anomaly detection and system recommendations. )
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence/Machine Learning in Finance
-  - Reinforcement Learning
+  - Remote sensing
   - Recommendation Systems
   - Reproducible Research
 
@@ -68,4 +68,4 @@ email: 'daniel.kucharczyk[at]pwr.edu.pl'
 highlight_name: true
 ---
 
-Daniel Kucharczyk is an Assistant Professor with the Faculty od Pure and Applied Mathematics at Wroclaw University of Technology. His research interests include the application of mathematics (AI/ML) in finance, anomaly detection and system recommendations.
+Daniel Kucharczyk is an Assistant Professor with the Faculty od Pure and Applied Mathematics at Wroclaw University of Technology. His research interests include the application of mathematics and AI/ML methods in finance, remote sensing and system recommendations.
