@@ -74,5 +74,18 @@ The final grade from the class is given in reference to the **sum** of the score
   > Solved problems: 1, 2, 3 </br>
 - Week 3 (`2023-03-17`) - Introduction to the stochastic differential equations (SDEs) and stochastic integrals.
 s. [Problem Sheet#2](http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf)
-- Week 4 (`2023-03-24`) - TBA
-- Week 5 (`2023-03-31`) - TBA
+- Week 4 (`2023-03-24`) - [Problem Sheet#2](http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf)
+- Week 5 (`2023-03-31`) - [Problem Sheet#2](http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf)
+- Week 6 (`2023-04-14`) - [Problem Sheet#2](http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf)
+- Week 7 (`2023-04-21`) - [Problem Sheet#3](http://prac.im.pwr.wroc.pl/~zpalma/finaktlista32021.pdf)
+- Week 8 (`2023-04-28`) - [Problem Sheet#3](http://prac.im.pwr.wroc.pl/~zpalma/finaktlista32021.pdf)
+- Mid Term Test (`2023-05-10`) - Mid Term Test
+- Week 9 (`2023-05-12`) - [Problem Sheet#3](http://prac.im.pwr.wroc.pl/~zpalma/finaktlista32021.pdf)
+
+
+**Note**: Below you will find a link to the folder containing **unreviewed**(!) solutions:
+[link](https://drive.google.com/drive/folders/1qt2FBtDU4dnXeHfaUBhxq6nwlbaRN9_O?usp=sharing)
+
+
+
+

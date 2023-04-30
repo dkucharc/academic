@@ -68,3 +68,8 @@ projects:
 slides: ""
 ---
 
+Financial index tracking is a popular investment strategy that involves investing in a portfolio of securities that mirrors the composition and performance of a particular financial index, such as the S&P 500 or the Dow Jones Industrial Average. The goal of index tracking is to achieve returns that closely match the performance of the chosen index, which is considered to be a benchmark for the overall market.
+
+Index tracking is typically achieved through passive investing, which involves buying and holding the constituent securities of the index in proportion to their weights in the index. This approach allows investors to benefit from the growth of the overall market without having to make individual stock selections.
+
+There are several advantages to index tracking. First, it offers broad exposure to a diversified portfolio of securities, which can reduce the risk of losses due to individual stock performance. Second, it typically has lower fees and expenses compared to actively managed funds, which can improve the overall returns for investors. Finally, it is a simple and transparent investment strategy that is easy to understand and implement.

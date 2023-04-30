@@ -68,3 +68,21 @@ projects:
 slides: ""
 ---
 
+
+Matrix factorization is a popular technique in machine learning used for dimensionality reduction, data compression, and collaborative filtering. It involves decomposing a matrix into two or more matrices that represent latent features or factors.
+
+The goal of matrix factorization is to extract meaningful latent factors from a matrix that can be used to make predictions or recommendations. For example, in collaborative filtering, matrix factorization can be used to predict a user's rating for an item based on their historical ratings and the ratings of similar users.
+
+Matrix factorization techniques are widely used in recommender systems to provide personalized recommendations to users based on their historical behavior or preferences. Here are some popular matrix factorization techniques used for recommender systems:
+
+- Singular Value Decomposition (SVD): SVD is a widely used matrix factorization technique for recommender systems. It decomposes the user-item interaction matrix into two lower-rank matrices, which represent latent factors. These factors represent the user's preferences and the item's characteristics.
+
+- Alternating Least Squares (ALS): ALS is another popular matrix factorization technique for recommender systems. It iteratively minimizes the error between the original matrix and the reconstructed matrix using alternating optimization techniques.
+
+- Non-negative Matrix Factorization (NMF): NMF is a matrix factorization technique that factorizes the user-item interaction matrix into two non-negative matrices, which represent the user preferences and item characteristics. It is often used for recommender systems that require non-negative values.
+
+- Bayesian Personalized Ranking (BPR): BPR is a matrix factorization technique that learns latent factors for users and items by maximizing the likelihood of the observed interactions while minimizing the likelihood of unobserved interactions.
+
+- Factorization Machines (FM): FM is a matrix factorization technique that can capture complex interactions between user preferences and item characteristics. It is a more powerful technique than SVD or NMF, but it requires more computational resources.
+
+These techniques have different strengths and weaknesses and can be used depending on the specific needs of the recommender system.

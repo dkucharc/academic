@@ -1,5 +1,5 @@
 ---
-title: 'Time-series forecasting models based on DARTs'
+title: 'Linear unmixing models on hyperspectral data'
 # subtitle: 'Matematyczne aspekty koncepcji dryftu danych w kontekście współczesnych metod uczenia maszynowego'
 
 # Authors
@@ -30,7 +30,7 @@ publication_types: ['7']
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.)
 
-tags: ["Bachelor", "Free", "ML", "Time Series"]
+tags: ["Bachelor", "Free", "ML", "Remote Sensing"]
 
 # Display this page in the Featured widget?
 featured: false
@@ -40,11 +40,11 @@ featured: false
 #  - name: Custom Link
 #    url: http://example.org
 
-url_pdf: 'https://www.jmlr.org/papers/v23/21-1177.html#:~:text=%5Babs%5D%5B-,pdf,-%5D%5Bbib%5D%20%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%20%5B'
-url_code: 'https://github.com/unit8co/darts'
+url_pdf: 'https://downloads.hindawi.com/journals/mpe/2020/3735403.pdf'
+url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'dd'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -68,4 +68,14 @@ projects:
 slides: ""
 ---
 
+Linear unmixing is a popular technique used for analyzing hyperspectral data. Hyperspectral imaging is a remote sensing technique that captures the electromagnetic radiation reflected from the Earth's surface across hundreds of narrow spectral bands. Linear unmixing is used to extract information about the different materials present in the scene based on their spectral signatures.
 
+The linear unmixing model assumes that each pixel in the hyperspectral image can be represented as a linear combination of the spectral signatures of the materials present in that pixel. In other words, the pixel's spectrum is a weighted sum of the spectra of the constituent materials. This model is expressed mathematically as:
+
+𝐼(λ) = 𝑆(λ)𝐴
+
+where 𝐼(λ) is the observed spectrum at wavelength λ, 𝑆(λ) is the matrix of spectral signatures for the materials of interest, and 𝐴 is the abundance matrix that represents the proportion of each material present in the pixel.
+
+The linear unmixing process involves estimating the abundance matrix 𝐴 for each pixel in the image. This is typically done using optimization techniques such as least squares, non-negative least squares, or constrained least squares. Once the abundance matrix is estimated, the abundance maps can be generated for each material, providing information about the spatial distribution of the different materials in the scene.
+
+Linear unmixing is widely used in applications such as mineral mapping, vegetation analysis, and urban land-use classification, among others. It is a powerful tool for extracting information from hyperspectral data and can provide valuable insights into the Earth's surface and its composition.

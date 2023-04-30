@@ -1,5 +1,5 @@
 ---
-title: 'Semantic segmentation using UNet archicture on remote sensing data'
+title: 'Semantic Segmentation of Remote Sensing Images'
 # subtitle: 'Matematyczne aspekty koncepcji dryftu danych w kontekście współczesnych metod uczenia maszynowego'
 
 # Authors
@@ -68,3 +68,8 @@ projects:
 slides: ""
 ---
 
+Semantic segmentation in remote sensing refers to the process of segmenting an image obtained from a remote sensing platform (such as a satellite or drone) into different regions or objects based on their semantic meaning. This involves assigning each pixel in the image to a particular class or category, such as vegetation, water, buildings, roads, and so on.
+
+It has many applications, such as land cover classification, urban planning, environmental monitoring, and disaster management. It can be performed using a variety of techniques, including supervised and unsupervised machine learning algorithms, deep learning models, and image processing techniques.
+
+Some popular deep learning models used for semantic segmentation in remote sensing include U-Net, FCN, SegNet, and DeepLab. These models use convolutional neural networks (CNNs) to extract features from the input image and then apply a decoder to generate a pixel-wise segmentation map.
