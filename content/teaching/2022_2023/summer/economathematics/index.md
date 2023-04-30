@@ -85,7 +85,7 @@ s. [Problem Sheet#2](http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf)
 
 **Note**: Below you will find a link to the folder containing **unreviewed**(!) solutions:
 [link](https://drive.google.com/drive/folders/1qt2FBtDU4dnXeHfaUBhxq6nwlbaRN9_O?usp=sharing)
-
+The access to the above resource is limited. To get access to the materials please raise your interest via email sent from `@pwr.edu.pl` domain.
 
 
 
