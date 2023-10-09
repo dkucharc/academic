@@ -3,8 +3,6 @@ title: Economathematics
 summary: Complementary class to Economathematics course given by [Prof. Zbigniew Palmowski, DSc, PhD](http://prac.im.pwr.wroc.pl/~zpalma/econ.html) at WUST during summer term, 2022/2023.
 
 
- 
-
 tags:
   - Summer (2022/2023)
 date: '2023-03-03'

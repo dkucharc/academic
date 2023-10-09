@@ -68,7 +68,6 @@ projects:
 slides: ""
 ---
 
-
 Matrix factorization is a popular technique in machine learning used for dimensionality reduction, data compression, and collaborative filtering. It involves decomposing a matrix into two or more matrices that represent latent features or factors.
 
 The goal of matrix factorization is to extract meaningful latent factors from a matrix that can be used to make predictions or recommendations. For example, in collaborative filtering, matrix factorization can be used to predict a user's rating for an item based on their historical ratings and the ratings of similar users.
