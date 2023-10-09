@@ -20,131 +20,166 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;p>𝐼(λ) = 𝑆(λ)𝐴&lt;/p>
 &lt;p>where 𝐼(λ) is the observed spectrum at wavelength λ, 𝑆(λ) is the matrix of spectral signatures for the materials of interest, and 𝐴 is the abundance matrix that represents the proportion of each material present in the pixel.&lt;/p>
 &lt;p>The linear unmixing process involves estimating the abundance matrix 𝐴 for each pixel in the image. This is typically done using optimization techniques such as least squares, non-negative least squares, or constrained least squares. Once the abundance matrix is estimated, the abundance maps can be generated for each material, providing information about the spatial distribution of the different materials in the scene.&lt;/p>
-&lt;p>Linear unmixing is widely used in applications such as mineral mapping, vegetation analysis, and urban land-use classification, among others. It is a powerful tool for extracting information from hyperspectral data and can provide valuable insights into the Earth&amp;rsquo;s surface and its composition.&lt;/p></description></item><item><title>Matrix factorization techniques for recommender systems</title><link>https://dkucharc.github.io/academic/projects/20222023_factorization_machines/</link><pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/20222023_factorization_machines/</guid><description>&lt;p>Matrix factorization is a popular technique in machine learning used for dimensionality reduction, data compression, and collaborative filtering. It involves decomposing a matrix into two or more matrices that represent latent features or factors.&lt;/p>
-&lt;p>The goal of matrix factorization is to extract meaningful latent factors from a matrix that can be used to make predictions or recommendations. For example, in collaborative filtering, matrix factorization can be used to predict a user&amp;rsquo;s rating for an item based on their historical ratings and the ratings of similar users.&lt;/p>
-&lt;p>Matrix factorization techniques are widely used in recommender systems to provide personalized recommendations to users based on their historical behavior or preferences. Here are some popular matrix factorization techniques used for recommender systems:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Singular Value Decomposition (SVD): SVD is a widely used matrix factorization technique for recommender systems. It decomposes the user-item interaction matrix into two lower-rank matrices, which represent latent factors. These factors represent the user&amp;rsquo;s preferences and the item&amp;rsquo;s characteristics.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Alternating Least Squares (ALS): ALS is another popular matrix factorization technique for recommender systems. It iteratively minimizes the error between the original matrix and the reconstructed matrix using alternating optimization techniques.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Non-negative Matrix Factorization (NMF): NMF is a matrix factorization technique that factorizes the user-item interaction matrix into two non-negative matrices, which represent the user preferences and item characteristics. It is often used for recommender systems that require non-negative values.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Bayesian Personalized Ranking (BPR): BPR is a matrix factorization technique that learns latent factors for users and items by maximizing the likelihood of the observed interactions while minimizing the likelihood of unobserved interactions.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Factorization Machines (FM): FM is a matrix factorization technique that can capture complex interactions between user preferences and item characteristics. It is a more powerful technique than SVD or NMF, but it requires more computational resources.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>These techniques have different strengths and weaknesses and can be used depending on the specific needs of the recommender system.&lt;/p></description></item><item><title>Optimization Methods for Financial Index Tracking</title><link>https://dkucharc.github.io/academic/projects/index_tracking/</link><pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/index_tracking/</guid><description>&lt;p>Financial index tracking is a popular investment strategy that involves investing in a portfolio of securities that mirrors the composition and performance of a particular financial index, such as the S&amp;amp;P 500 or the Dow Jones Industrial Average. The goal of index tracking is to achieve returns that closely match the performance of the chosen index, which is considered to be a benchmark for the overall market.&lt;/p>
+&lt;p>Linear unmixing is widely used in applications such as mineral mapping, vegetation analysis, and urban land-use classification, among others. It is a powerful tool for extracting information from hyperspectral data and can provide valuable insights into the Earth&amp;rsquo;s surface and its composition.&lt;/p></description></item><item><title>Optimization Methods for Financial Index Tracking</title><link>https://dkucharc.github.io/academic/projects/index_tracking/</link><pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/index_tracking/</guid><description>&lt;p>Financial index tracking is a popular investment strategy that involves investing in a portfolio of securities that mirrors the composition and performance of a particular financial index, such as the S&amp;amp;P 500 or the Dow Jones Industrial Average. The goal of index tracking is to achieve returns that closely match the performance of the chosen index, which is considered to be a benchmark for the overall market.&lt;/p>
 &lt;p>Index tracking is typically achieved through passive investing, which involves buying and holding the constituent securities of the index in proportion to their weights in the index. This approach allows investors to benefit from the growth of the overall market without having to make individual stock selections.&lt;/p>
 &lt;p>There are several advantages to index tracking. First, it offers broad exposure to a diversified portfolio of securities, which can reduce the risk of losses due to individual stock performance. Second, it typically has lower fees and expenses compared to actively managed funds, which can improve the overall returns for investors. Finally, it is a simple and transparent investment strategy that is easy to understand and implement.&lt;/p></description></item><item><title>Semantic Segmentation of Remote Sensing Images</title><link>https://dkucharc.github.io/academic/projects/unet_remote_sensing/</link><pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/unet_remote_sensing/</guid><description>&lt;p>Semantic segmentation in remote sensing refers to the process of segmenting an image obtained from a remote sensing platform (such as a satellite or drone) into different regions or objects based on their semantic meaning. This involves assigning each pixel in the image to a particular class or category, such as vegetation, water, buildings, roads, and so on.&lt;/p>
 &lt;p>It has many applications, such as land cover classification, urban planning, environmental monitoring, and disaster management. It can be performed using a variety of techniques, including supervised and unsupervised machine learning algorithms, deep learning models, and image processing techniques.&lt;/p>
-&lt;p>Some popular deep learning models used for semantic segmentation in remote sensing include U-Net, FCN, SegNet, and DeepLab. These models use convolutional neural networks (CNNs) to extract features from the input image and then apply a decoder to generate a pixel-wise segmentation map.&lt;/p></description></item><item><title>Time-series forecasting models based on DARTs</title><link>https://dkucharc.github.io/academic/projects/time_series_dart/</link><pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/time_series_dart/</guid><description/></item><item><title>Economathematics</title><link>https://dkucharc.github.io/academic/teaching/2022_2023/summer/economathematics/</link><pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2022_2023/summer/economathematics/</guid><description>&lt;p>&lt;strong>Basic information&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Form of the classes: tutorials&lt;/li>
-&lt;li>Lecturer: &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma" target="_blank" rel="noopener">prof. Zbigniew Palmowski, DSc, PhD&lt;/a>&lt;/li>
-&lt;li>Audience: Students of Applied Mathematics, Faculty of Pure and Applied Mathematics (W-13), 1&lt;sup>st&lt;/sup> semestr&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Time and place of the classes&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Fridays, 9:15 AM - 11:00 AM (Building C-19, Room: A.1.3)&lt;/li>
-&lt;li>Fridays, 11:15 AM - 1:00 PM (Building C-19, Room: A.1.3)&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Grading rules&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>During the term there will be one &lt;strong>test&lt;/strong> and one &lt;strong>exam&lt;/strong>.&lt;/li>
-&lt;li>The &lt;strong>test&lt;/strong> will take place during the tutorials, around the 9&lt;sup>th&lt;/sup> week of the classes. The maximum number of points to be scored at the test is 70 points.&lt;/li>
-&lt;li>The &lt;strong>exam&lt;/strong> will take place at the end of the term, during the exam session. The maximum number of points to be scored at the exam is also 70 points.&lt;/li>
-&lt;li>Evert student have an obligation to solve &lt;strong>at least one problem&lt;/strong> from the official &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/econ.html" target="_blank" rel="noopener">problem lists&lt;/a>. This form of scoring points is called &lt;strong>in-class activity&lt;/strong>.&lt;/li>
-&lt;li>For each completely solved problem, a student can score 10 points. The problem is considered to be fully solved when the following requirements are met:
-&lt;ul>
-&lt;li>the solution is correct,&lt;/li>
-&lt;li>the solution is presented during the classes,&lt;/li>
-&lt;li>the presented solution has to be delivered in the &lt;a href="https://pl.wikipedia.org/wiki/LaTeX" target="_blank" rel="noopener">&lt;code>LaTeX&lt;/code>&lt;/a> format to the &lt;a href="mailto:daniel.kucharczyk[at]pwr.edu.pl">tutor&amp;rsquo;s email&lt;/a>.
-The provided &lt;code>LaTeX&lt;/code> file is meant to be based on the following &lt;a href="files/assignment_template.tex">template&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>A student cannot score more than a total of &lt;strong>70&lt;/strong> points from the &lt;strong>test&lt;/strong> and from &lt;strong>in-class activity&lt;/strong>. Scoring &lt;strong>70 points&lt;/strong> that way frees the student from the obligation of taking a written part of the exam and guarantees him/her the final &lt;strong>5.0&lt;/strong> grade in advance.&lt;/li>
-&lt;li>Students being graded below &lt;strong>70&lt;/strong> points (from the &lt;strong>test&lt;/strong> and from &lt;strong>in-class activity&lt;/strong>) have an obligation to take an exam.
-The final grade from the class is given in reference to the &lt;strong>sum&lt;/strong> of the scores achieved from &lt;strong>test&lt;/strong>, the &lt;strong>in-class activity&lt;/strong> and the &lt;strong>exam&lt;/strong> and it can derived from the table given below.
-&lt;/br>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th style="text-align:center">Points&lt;/th>
-&lt;th style="text-align:center">Grade&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td style="text-align:center">&amp;lt; 65&lt;/td>
-&lt;td style="text-align:center">2.0&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">[65;80)&lt;/td>
-&lt;td style="text-align:center">3.0&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">[80;90)&lt;/td>
-&lt;td style="text-align:center">3.5&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">[90;105)&lt;/td>
-&lt;td style="text-align:center">4.0&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">[105;120)&lt;/td>
-&lt;td style="text-align:center">4.5&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">&amp;lt;= 120&lt;/td>
-&lt;td style="text-align:center">5.0&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">&lt;/br>&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">&lt;strong>Note&lt;/strong>: There is a possibility of getting an excellent (5.5) grade. People aiming to get it will be asked to take an extra (oral) part of the exam. A willingness to take the exam should be accepted by the Tutor and reported to the Lecturer, accordingly.&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Timelines:&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>Week 1 (&lt;code>2023-03-03&lt;/code>) - Skipped class due to Dean&amp;rsquo;s hours.&lt;/li>
-&lt;li>Week 2 (&lt;code>2023-03-10&lt;/code>) - Binomial option pricing models. &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista12021.pdf" target="_blank" rel="noopener">Problem Sheet#1&lt;/a>
-&lt;blockquote>
-&lt;p>Solved problems: 1, 2, 3 &lt;/br>&lt;/p>
-&lt;/blockquote>
-&lt;/li>
-&lt;li>Week 3 (&lt;code>2023-03-17&lt;/code>) - Introduction to the stochastic differential equations (SDEs) and stochastic integrals.
-s. &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf" target="_blank" rel="noopener">Problem Sheet#2&lt;/a>&lt;/li>
-&lt;li>Week 4 (&lt;code>2023-03-24&lt;/code>) - &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf" target="_blank" rel="noopener">Problem Sheet#2&lt;/a>&lt;/li>
-&lt;li>Week 5 (&lt;code>2023-03-31&lt;/code>) - &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf" target="_blank" rel="noopener">Problem Sheet#2&lt;/a>&lt;/li>
-&lt;li>Week 6 (&lt;code>2023-04-14&lt;/code>) - &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista22021.pdf" target="_blank" rel="noopener">Problem Sheet#2&lt;/a>&lt;/li>
-&lt;li>Week 7 (&lt;code>2023-04-21&lt;/code>) - &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista32021.pdf" target="_blank" rel="noopener">Problem Sheet#3&lt;/a>&lt;/li>
-&lt;li>Week 8 (&lt;code>2023-04-28&lt;/code>) - &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista32021.pdf" target="_blank" rel="noopener">Problem Sheet#3&lt;/a>&lt;/li>
-&lt;li>Mid Term Test (&lt;code>2023-05-10&lt;/code>) - Mid Term Test&lt;/li>
-&lt;li>Week 9 (&lt;code>2023-05-12&lt;/code>) - &lt;a href="http://prac.im.pwr.wroc.pl/~zpalma/finaktlista32021.pdf" target="_blank" rel="noopener">Problem Sheet#3&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Note&lt;/strong>: Below you will find a link to the folder containing &lt;strong>unreviewed&lt;/strong>(!) solutions:
-&lt;a href="https://drive.google.com/drive/folders/1qt2FBtDU4dnXeHfaUBhxq6nwlbaRN9_O?usp=sharing" target="_blank" rel="noopener">link&lt;/a>
-The access to the above resource is limited. To get access to the materials please raise your interest via email sent from &lt;code>@pwr.edu.pl&lt;/code> domain.&lt;/p></description></item><item><title>Conformal Prediction and Distribution-Free Uncertainty Quantification</title><link>https://dkucharc.github.io/academic/projects/conformal_prediction/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/conformal_prediction/</guid><description>&lt;p>Black-box machine learning models are now routinely used in high-risk settings, like medical diagnostics, which demand uncertainty quantification to avoid consequential model failures. Conformal prediction is a user-friendly paradigm for creating statistically rigorous uncertainty sets/intervals for the predictions of such models. Critically, the sets are valid in a distribution-free sense: they possess explicit, non-asymptotic guarantees even without distributional assumptions or model assumptions. One can use conformal prediction with any pre-trained model, such as a neural network, to produce sets that are guaranteed to contain the ground truth with a user-specified probability, such as 90%. It is easy-to-understand, easy-to-use, and general, applying naturally to problems arising in the fields of computer vision, natural language processing, deep reinforcement learning, and so on.&lt;/p></description></item><item><title>Mathematical aspects of data drift in machine learning</title><link>https://dkucharc.github.io/academic/projects/data_drift/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/data_drift/</guid><description>&lt;p>Data drift is a common problem in machine learning where the statistical properties of the data used for model training change over time. This can lead to a drop in model performance, as the model is no longer optimized for the new distribution of data.&lt;/p>
+&lt;p>Some popular deep learning models used for semantic segmentation in remote sensing include U-Net, FCN, SegNet, and DeepLab. These models use convolutional neural networks (CNNs) to extract features from the input image and then apply a decoder to generate a pixel-wise segmentation map.&lt;/p></description></item><item><title>Time-series forecasting models based on DARTs</title><link>https://dkucharc.github.io/academic/projects/time_series_dart/</link><pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/time_series_dart/</guid><description/></item><item><title>Conformal Prediction and Distribution-Free Uncertainty Quantification</title><link>https://dkucharc.github.io/academic/projects/conformal_prediction/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/conformal_prediction/</guid><description>&lt;p>Black-box machine learning models are now routinely used in high-risk settings, like medical diagnostics, which demand uncertainty quantification to avoid consequential model failures. Conformal prediction is a user-friendly paradigm for creating statistically rigorous uncertainty sets/intervals for the predictions of such models. Critically, the sets are valid in a distribution-free sense: they possess explicit, non-asymptotic guarantees even without distributional assumptions or model assumptions. One can use conformal prediction with any pre-trained model, such as a neural network, to produce sets that are guaranteed to contain the ground truth with a user-specified probability, such as 90%. It is easy-to-understand, easy-to-use, and general, applying naturally to problems arising in the fields of computer vision, natural language processing, deep reinforcement learning, and so on.&lt;/p></description></item><item><title>Mathematical aspects of data drift in machine learning</title><link>https://dkucharc.github.io/academic/projects/data_drift/</link><pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/projects/data_drift/</guid><description>&lt;p>Data drift is a common problem in machine learning where the statistical properties of the data used for model training change over time. This can lead to a drop in model performance, as the model is no longer optimized for the new distribution of data.&lt;/p>
 &lt;p>Data drift can occur for many reasons, such as changes in the data collection process, changes in user behavior, or changes in the underlying system being modeled. To mitigate data drift, it is important to monitor the performance of the model over time and retrain it with updated data when necessary.&lt;/p>
 &lt;p>There are several techniques that can be used to detect and address data drift, including:&lt;/p>
 &lt;p>Monitoring key performance metrics such as accuracy, precision, and recall over time to detect drops in model performance.&lt;/p>
 &lt;p>Using statistical tests to compare the distributions of the data used for training and testing the model.&lt;/p>
 &lt;p>Using data augmentation techniques such as synthetic data generation to supplement the training data and make the model more robust to changes in the data distribution.&lt;/p>
 &lt;p>Employing domain adaptation techniques to adapt the model to new data distributions, while minimizing the need for retraining the entire model.&lt;/p>
-&lt;p>By proactively monitoring and addressing data drift, machine learning models can maintain high levels of accuracy and continue to provide valuable insights even as data distribution changes over time.&lt;/p></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://dkucharc.github.io/academic/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>By proactively monitoring and addressing data drift, machine learning models can maintain high levels of accuracy and continue to provide valuable insights even as data distribution changes over time.&lt;/p></description></item><item><title>Machine Learning</title><link>https://dkucharc.github.io/academic/teaching/2023_2024/winter/machine_learning/</link><pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2023_2024/winter/machine_learning/</guid><description>&lt;h2 id="course-summary">&lt;strong>Course Summary&lt;/strong>&lt;/h2>
+&lt;p>This course provides a broad introduction to machine learning and statistical pattern recognition with the main focus on the deep learning methods.&lt;/p>
+&lt;p>&lt;strong>Time and Location&lt;/strong>&lt;/p>
+&lt;p>Winter Term, 2023/2024&lt;/p>
+&lt;p>Thursday 1:15 - 3:00 AM, &lt;em>C13, A.1.13&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Grading &amp;amp; Rules&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The course is divided into two streams. Namely, in-class lectures and labs.&lt;/li>
+&lt;li>In total, a student can obtain up to &lt;strong>50&lt;/strong> points.&lt;/li>
+&lt;li>The maximum number of points that can be achieved for labs is &lt;strong>36&lt;/strong> points.&lt;/li>
+&lt;li>A student can get additional &lt;strong>16&lt;/strong> points from the oral exam that will take place during the examination session.&lt;/li>
+&lt;li>To obtain a positive mark it is sufficient and necessary to obtain at least &lt;strong>25&lt;/strong> points
+total. Then, the final grade is calculated as follows:
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;div style="width:140px"> POINTS &lt;/div>&lt;/th>
+&lt;th style="text-align:center">&lt;div style="width:140px"> GRADE &lt;/div>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">[25, 30)&lt;/td>
+&lt;td style="text-align:center">3.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[30, 35)&lt;/td>
+&lt;td style="text-align:center">3.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[35, 40)&lt;/td>
+&lt;td style="text-align:center">4.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[40, 45)&lt;/td>
+&lt;td style="text-align:center">4.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[45, 50]&lt;/td>
+&lt;td style="text-align:center">5.0&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/li>
+&lt;/ul>
+&lt;br/>
+&lt;p>&lt;strong>Syllabus&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>EVENT&lt;/th>
+&lt;th style="text-align:center">&lt;div style="width:140px"> DATE &lt;/div>&lt;/th>
+&lt;th>LECTURE&lt;/th>
+&lt;th style="text-align:center">MATERIALS&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Lecture 1&lt;/td>
+&lt;td style="text-align:center">05/10/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Class introduction &lt;br>- Course details&lt;/td>
+&lt;td style="text-align:center">No materials&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 2&lt;/td>
+&lt;td style="text-align:center">12/10/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Machine Learning introduction&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 3&lt;/td>
+&lt;td style="text-align:center">19/10/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 4&lt;/td>
+&lt;td style="text-align:center">26/10/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 5&lt;/td>
+&lt;td style="text-align:center">09/11/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 6&lt;/td>
+&lt;td style="text-align:center">16/11/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 7&lt;/td>
+&lt;td style="text-align:center">23/11/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 8&lt;/td>
+&lt;td style="text-align:center">30/11/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 9&lt;/td>
+&lt;td style="text-align:center">07/12/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 10&lt;/td>
+&lt;td style="text-align:center">14/12/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 11&lt;/td>
+&lt;td style="text-align:center">21/12/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 12&lt;/td>
+&lt;td style="text-align:center">11/01/2024&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 13&lt;/td>
+&lt;td style="text-align:center">18/01/2024&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 14&lt;/td>
+&lt;td style="text-align:center">25/01/2024&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 15&lt;/td>
+&lt;td style="text-align:center">01/02/2024&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://dkucharc.github.io/academic/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
 &lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>

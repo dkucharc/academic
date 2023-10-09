@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Winter (2023/2024) | DK's page</title><link>https://dkucharc.github.io/academic/tag/winter-2023/2024/</link><atom:link href="https://dkucharc.github.io/academic/tag/winter-2023/2024/index.xml" rel="self" type="application/rss+xml"/><description>Winter (2023/2024)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://dkucharc.github.io/academic/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Winter (2023/2024)</title><link>https://dkucharc.github.io/academic/tag/winter-2023/2024/</link></image><item><title>Machine Learning</title><link>https://dkucharc.github.io/academic/teaching/2023_2024/winter/machine_learning/</link><pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/teaching/2023_2024/winter/machine_learning/</guid><description>&lt;h2 id="course-summary">&lt;strong>Course Summary&lt;/strong>&lt;/h2>
+&lt;p>This course provides a broad introduction to machine learning and statistical pattern recognition with the main focus on the deep learning methods.&lt;/p>
+&lt;p>&lt;strong>Time and Location&lt;/strong>&lt;/p>
+&lt;p>Winter Term, 2023/2024&lt;/p>
+&lt;p>Thursday 1:15 - 3:00 AM, &lt;em>C13, A.1.13&lt;/em>&lt;/p>
+&lt;p>&lt;strong>Grading &amp;amp; Rules&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>The course is divided into two streams. Namely, in-class lectures and labs.&lt;/li>
+&lt;li>In total, a student can obtain up to &lt;strong>50&lt;/strong> points.&lt;/li>
+&lt;li>The maximum number of points that can be achieved for labs is &lt;strong>36&lt;/strong> points.&lt;/li>
+&lt;li>A student can get additional &lt;strong>16&lt;/strong> points from the oral exam that will take place during the examination session.&lt;/li>
+&lt;li>To obtain a positive mark it is sufficient and necessary to obtain at least &lt;strong>25&lt;/strong> points
+total. Then, the final grade is calculated as follows:
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">&lt;div style="width:140px"> POINTS &lt;/div>&lt;/th>
+&lt;th style="text-align:center">&lt;div style="width:140px"> GRADE &lt;/div>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">[25, 30)&lt;/td>
+&lt;td style="text-align:center">3.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[30, 35)&lt;/td>
+&lt;td style="text-align:center">3.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[35, 40)&lt;/td>
+&lt;td style="text-align:center">4.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[40, 45)&lt;/td>
+&lt;td style="text-align:center">4.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">[45, 50]&lt;/td>
+&lt;td style="text-align:center">5.0&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;/li>
+&lt;/ul>
+&lt;br/>
+&lt;p>&lt;strong>Syllabus&lt;/strong>&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>EVENT&lt;/th>
+&lt;th style="text-align:center">&lt;div style="width:140px"> DATE &lt;/div>&lt;/th>
+&lt;th>LECTURE&lt;/th>
+&lt;th style="text-align:center">MATERIALS&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Lecture 1&lt;/td>
+&lt;td style="text-align:center">05/10/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Class introduction &lt;br>- Course details&lt;/td>
+&lt;td style="text-align:center">No materials&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 2&lt;/td>
+&lt;td style="text-align:center">12/10/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Machine Learning introduction&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 3&lt;/td>
+&lt;td style="text-align:center">19/10/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 4&lt;/td>
+&lt;td style="text-align:center">26/10/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 5&lt;/td>
+&lt;td style="text-align:center">09/11/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 6&lt;/td>
+&lt;td style="text-align:center">16/11/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 7&lt;/td>
+&lt;td style="text-align:center">23/11/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 8&lt;/td>
+&lt;td style="text-align:center">30/11/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 9&lt;/td>
+&lt;td style="text-align:center">07/12/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 10&lt;/td>
+&lt;td style="text-align:center">14/12/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 11&lt;/td>
+&lt;td style="text-align:center">21/12/2023&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 12&lt;/td>
+&lt;td style="text-align:center">11/01/2024&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 13&lt;/td>
+&lt;td style="text-align:center">18/01/2024&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 14&lt;/td>
+&lt;td style="text-align:center">25/01/2024&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 15&lt;/td>
+&lt;td style="text-align:center">01/02/2024&lt;/td>
+&lt;td>TBA&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
