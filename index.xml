@@ -35,12 +35,12 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;p>This course provides a broad introduction to machine learning and statistical pattern recognition with the main focus on the deep learning methods.&lt;/p>
 &lt;p>&lt;strong>Time and Location&lt;/strong>&lt;/p>
 &lt;p>Winter Term, 2023/2024&lt;/p>
-&lt;p>Thursday 1:15 - 3:00 AM, &lt;em>C13, A.1.13&lt;/em>&lt;/p>
+&lt;p>Thursday 1:15 PM - 3:00 PM, &lt;em>C13, A.1.13&lt;/em>&lt;/p>
 &lt;p>&lt;strong>Grading &amp;amp; Rules&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>The course is divided into two streams. Namely, in-class lectures and labs.&lt;/li>
 &lt;li>In total, a student can obtain up to &lt;strong>50&lt;/strong> points.&lt;/li>
-&lt;li>The maximum number of points that can be achieved for labs is &lt;strong>36&lt;/strong> points.&lt;/li>
+&lt;li>The maximum number of points that can be achieved for labs is &lt;strong>34&lt;/strong> points.&lt;/li>
 &lt;li>A student can get additional &lt;strong>16&lt;/strong> points from the oral exam that will take place during the examination session.&lt;/li>
 &lt;li>To obtain a positive mark it is sufficient and necessary to obtain at least &lt;strong>25&lt;/strong> points
 total. Then, the final grade is calculated as follows:
@@ -103,8 +103,8 @@ total. Then, the final grade is calculated as follows:
 &lt;tr>
 &lt;td>Lecture 3&lt;/td>
 &lt;td style="text-align:center">19/10/2023&lt;/td>
-&lt;td>TBA&lt;/td>
-&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Supervised Learning&lt;/td>
+&lt;td style="text-align:center">TBP&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 4&lt;/td>
@@ -179,7 +179,12 @@ total. Then, the final grade is calculated as follows:
 &lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://dkucharc.github.io/academic/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;/table>
+&lt;p>&lt;strong>Materials&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Hastie, T., Tibshirani, R.,, Friedman, J. (2001). &lt;strong>The Elements of Statistical Learning&lt;/strong>. New York, NY, USA: Springer New York Inc.. &lt;a href="https://hastie.su.domains/Papers/ESLII.pdf" target="_blank" rel="noopener">PDF Version&lt;/a>&lt;/li>
+&lt;li>Goodfellow, I., Bengio, Y., &amp;amp; Courville, A. (2016). &lt;strong>Deep learning&lt;/strong>. MIT Press. &lt;a href="https://www.deeplearningbook.org/" target="_blank" rel="noopener">Online Version&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://dkucharc.github.io/academic/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://dkucharc.github.io/academic/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
 &lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
 &lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>

@@ -2,12 +2,12 @@
 &lt;p>This course provides a broad introduction to machine learning and statistical pattern recognition with the main focus on the deep learning methods.&lt;/p>
 &lt;p>&lt;strong>Time and Location&lt;/strong>&lt;/p>
 &lt;p>Winter Term, 2023/2024&lt;/p>
-&lt;p>Thursday 1:15 - 3:00 AM, &lt;em>C13, A.1.13&lt;/em>&lt;/p>
+&lt;p>Thursday 1:15 PM - 3:00 PM, &lt;em>C13, A.1.13&lt;/em>&lt;/p>
 &lt;p>&lt;strong>Grading &amp;amp; Rules&lt;/strong>&lt;/p>
 &lt;ul>
 &lt;li>The course is divided into two streams. Namely, in-class lectures and labs.&lt;/li>
 &lt;li>In total, a student can obtain up to &lt;strong>50&lt;/strong> points.&lt;/li>
-&lt;li>The maximum number of points that can be achieved for labs is &lt;strong>36&lt;/strong> points.&lt;/li>
+&lt;li>The maximum number of points that can be achieved for labs is &lt;strong>34&lt;/strong> points.&lt;/li>
 &lt;li>A student can get additional &lt;strong>16&lt;/strong> points from the oral exam that will take place during the examination session.&lt;/li>
 &lt;li>To obtain a positive mark it is sufficient and necessary to obtain at least &lt;strong>25&lt;/strong> points
 total. Then, the final grade is calculated as follows:
@@ -70,8 +70,8 @@ total. Then, the final grade is calculated as follows:
 &lt;tr>
 &lt;td>Lecture 3&lt;/td>
 &lt;td style="text-align:center">19/10/2023&lt;/td>
-&lt;td>TBA&lt;/td>
-&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Supervised Learning&lt;/td>
+&lt;td style="text-align:center">TBP&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 4&lt;/td>
@@ -146,4 +146,9 @@ total. Then, the final grade is calculated as follows:
 &lt;td style="text-align:center">&lt;/td>
 &lt;/tr>
 &lt;/tbody>
-&lt;/table></description></item></channel></rss>
+&lt;/table>
+&lt;p>&lt;strong>Materials&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Hastie, T., Tibshirani, R.,, Friedman, J. (2001). &lt;strong>The Elements of Statistical Learning&lt;/strong>. New York, NY, USA: Springer New York Inc.. &lt;a href="https://hastie.su.domains/Papers/ESLII.pdf" target="_blank" rel="noopener">PDF Version&lt;/a>&lt;/li>
+&lt;li>Goodfellow, I., Bengio, Y., &amp;amp; Courville, A. (2016). &lt;strong>Deep learning&lt;/strong>. MIT Press. &lt;a href="https://www.deeplearningbook.org/" target="_blank" rel="noopener">Online Version&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
