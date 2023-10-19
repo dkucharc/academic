@@ -22,12 +22,12 @@ This course provides a broad introduction to machine learning and statistical pa
 
 Winter Term, 2023/2024
 
-Thursday 1:15 - 3:00 AM, *C13, A.1.13*
+Thursday 1:15 PM - 3:00 PM, *C13, A.1.13*
 
 **Grading & Rules**
 - The course is divided into two streams. Namely, in-class lectures and labs.
 - In total, a student can obtain up to **50** points. 
-- The maximum number of points that can be achieved for labs is **36** points. 
+- The maximum number of points that can be achieved for labs is **34** points. 
 - A student can get additional **16** points from the oral exam that will take place during the examination session.
 - To obtain a positive mark it is sufficient and necessary to obtain at least **25** points
 total. Then, the final grade is calculated as follows:
@@ -46,7 +46,7 @@ total. Then, the final grade is calculated as follows:
 |---	|:---: |---	|:---:	|
 | Lecture 1 	| 05/10/2023 	| **Topics:**<br>- Class introduction <br>- Course details 	| No materials 	|
 | Lecture 2 	| 12/10/2023 	| **Topics:**<br>- Machine Learning introduction 	|  	|
-| Lecture 3 	| 19/10/2023 	| TBA	|  	|
+| Lecture 3 	| 19/10/2023 	| **Topics:**<br>- Supervised Learning	| TBP 	|
 | Lecture 4 	| 26/10/2023 	| TBA	|  	|
 | Lecture 5 	| 09/11/2023 	| TBA	|  	|
 | Lecture 6 	| 16/11/2023 	| TBA |  	|
@@ -59,3 +59,8 @@ total. Then, the final grade is calculated as follows:
 | Lecture 13 	| 18/01/2024 	| TBA 	|  	|
 | Lecture 14 	| 25/01/2024 	| TBA 	|  	|
 | Lecture 15 	| 01/02/2024 	| TBA 	|  	|
+
+
+**Materials**
+- Hastie, T., Tibshirani, R.,, Friedman, J. (2001). **The Elements of Statistical Learning**. New York, NY, USA: Springer New York Inc.. [PDF Version](https://hastie.su.domains/Papers/ESLII.pdf)
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). **Deep learning**. MIT Press. [Online Version](https://www.deeplearningbook.org/)

@@ -11,3 +11,5 @@ go.sum
 
 # PyCharm
 .DS_Store
+
+.ipynb_check
