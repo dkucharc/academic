@@ -68,6 +68,6 @@ total. Then, the final grade is calculated as follows:
 | Lecture 15 	| 01/02/2024 	| TBA 	|  	|
 
 
-**Materials**
+**Recommended Books**
 - Hastie, T., Tibshirani, R.,, Friedman, J. (2001). **The Elements of Statistical Learning**. New York, NY, USA: Springer New York Inc.. [PDF Version](https://hastie.su.domains/Papers/ESLII.pdf)
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). **Deep learning**. MIT Press. [Online Version](https://www.deeplearningbook.org/)
