@@ -56,7 +56,7 @@ total. Then, the final grade is calculated as follows:
 |  	|  	|<br>  	|  	|
 | Lecture 6 	| 16/11/2023 	| **Topics:**<br>- Overfitting. Regularization | **Suggested readings:** <br> - [Sebastian Rascha's Lecture Notes On Regularization](https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf)<br> - [Rogger's Grosse Notes](https://www.cs.toronto.edu/~lczhang/321/notes/notes09.pdf) |
 |  	|  	|<br>  	|  	|
-| Lecture 7 	| 23/11/2023 	| **Topics:**<br>- Introduction to Neural Networks<br>- Backpropagation | **Suggested readings:** <br> - [Neurals network from scratch](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9)<br> - [Brief introduction to backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|
+| Lecture 7 	| 23/11/2023 	| **Topics:**<br>- Introduction to Neural Networks<br>- Forward Pass and Backpropagation algorithms| **Suggested readings:** <br> - [Neurals network from scratch](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9)<br> - [Brief introduction to backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|
 |  	|  	|<br>  	|  	|
 | Lecture 8 	| 30/11/2023 	| TBA 	|  	|
 | Lecture 9 	| 07/12/2023 	| TBA 	|  	|
