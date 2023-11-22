@@ -42,15 +42,22 @@ total. Then, the final grade is calculated as follows:
 <br/>
 
 **Syllabus**
-| EVENT 	| <div style="width:140px"> DATE </div> 	| LECTURE 	| MATERIALS 	|
-|---	|:---: |---	|:---:	|
+| <div style="width:80px"> EVENT 	| <div style="width:160px"> DATE </div> 	| <div style="width:240px"> LECTURE 	|  ADDITIONAL MATERIALS 	|
+|---	|:---: |---	|:---	|
 | Lecture 1 	| 05/10/2023 	| **Topics:**<br>- Class introduction <br>- Course details 	|  	|
+|  	|  	|<br>  	|  	|
 | Lecture 2 	| 12/10/2023 	| **Topics:**<br>- Machine Learning introduction |  	|
-| Lecture 3 	| 19/10/2023 	| **Topics:**<br>- Supervised Learning |  |
-| Lecture 4 	| 26/10/2023 	| *Lecture cancelled*. To be retaken soon. | Recommended readings: <br>- [Notes On Supervised Learning](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote01_MLsetup.html) |
-| Lecture 5 	| 09/11/2023 	| **Topics:**<br>- Generalization Error. Bias-Variance Decomposition | Recommended readings: - [Andrew Ng's Lecutre Notes On Learning Theory](https://see.stanford.edu/materials/aimlcs229/cs229-notes4.pdf)<br>- [Notes on Bias-Variance Trade Off](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html) |
-| Lecture 6 	| 16/11/2023 	| **Topics:**<br>- Overfitting. Regularization | Recommended readings: - [Sebastian Rascha's Lecture Notes On Regularization](https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf)<br> - [Rogger's Grosse Notes](https://www.cs.toronto.edu/~lczhang/321/notes/notes09.pdf) |
-| Lecture 7 	| 23/11/2023 	| **Topics:**<br>- Introduction to Neural Networks | Recommended readings: - [Neurals network from scratch](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9)<br> - [Brief introduction to backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|
+|  	|  	|<br>  	|  	|
+| Lecture 3 	| 19/10/2023 	| **Topics:**<br>- Supervised Learning |  **Suggested readings:** <br>- [Notes On Supervised Learning](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote01_MLsetup.html) |
+|  	|  	|<br>  	|  	|
+| Lecture 4 	| 26/10/2023 	| *Lecture cancelled*. To be retaken soon. |  |
+|  	|  	|<br>  	|  	|
+| Lecture 5 	| 09/11/2023 	| **Topics:**<br>- Generalization Error <br>- Bias-Variance Decomposition | **Suggested readings:** <br> - [Andrew Ng's Lecutre Notes On Learning Theory](https://see.stanford.edu/materials/aimlcs229/cs229-notes4.pdf)<br>- [Notes on Bias-Variance Trade Off](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html) |
+|  	|  	|<br>  	|  	|
+| Lecture 6 	| 16/11/2023 	| **Topics:**<br>- Overfitting. Regularization | **Suggested readings:** <br> - [Sebastian Rascha's Lecture Notes On Regularization](https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf)<br> - [Rogger's Grosse Notes](https://www.cs.toronto.edu/~lczhang/321/notes/notes09.pdf) |
+|  	|  	|<br>  	|  	|
+| Lecture 7 	| 23/11/2023 	| **Topics:**<br>- Introduction to Neural Networks<br>- Backpropagation | **Suggested readings:** <br> - [Neurals network from scratch](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9)<br> - [Brief introduction to backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|
+|  	|  	|<br>  	|  	|
 | Lecture 8 	| 30/11/2023 	| TBA 	|  	|
 | Lecture 9 	| 07/12/2023 	| TBA 	|  	|
 | Lecture 10 	| 14/12/2023 	| TBA 	|  	|
