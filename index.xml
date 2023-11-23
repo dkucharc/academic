@@ -116,7 +116,7 @@ total. Then, the final grade is calculated as follows:
 &lt;td>Lecture 3&lt;/td>
 &lt;td style="text-align:center">19/10/2023&lt;/td>
 &lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Supervised Learning&lt;/td>
-&lt;td style="text-align:left">&lt;strong>Suggested readings:&lt;/strong> &lt;br>- &lt;a href="https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote01_MLsetup.html" target="_blank" rel="noopener">Notes On Supervised Learning&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;br>- &lt;a href="https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote01_MLsetup.html" target="_blank" rel="noopener">Notes On Supervised Learning&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
@@ -140,7 +140,7 @@ total. Then, the final grade is calculated as follows:
 &lt;td>Lecture 5&lt;/td>
 &lt;td style="text-align:center">09/11/2023&lt;/td>
 &lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Generalization Error &lt;br>- Bias-Variance Decomposition&lt;/td>
-&lt;td style="text-align:left">&lt;strong>Suggested readings:&lt;/strong> &lt;br> - &lt;a href="https://see.stanford.edu/materials/aimlcs229/cs229-notes4.pdf" target="_blank" rel="noopener">Andrew Ng&amp;rsquo;s Lecutre Notes On Learning Theory&lt;/a>&lt;br>- &lt;a href="https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html" target="_blank" rel="noopener">Notes on Bias-Variance Trade Off&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;br> - &lt;a href="https://see.stanford.edu/materials/aimlcs229/cs229-notes4.pdf" target="_blank" rel="noopener">Andrew Ng&amp;rsquo;s Lecutre Notes On Learning Theory&lt;/a>&lt;br>- &lt;a href="https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html" target="_blank" rel="noopener">Notes on Bias-Variance Trade Off&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
@@ -152,7 +152,7 @@ total. Then, the final grade is calculated as follows:
 &lt;td>Lecture 6&lt;/td>
 &lt;td style="text-align:center">16/11/2023&lt;/td>
 &lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Overfitting. Regularization&lt;/td>
-&lt;td style="text-align:left">&lt;strong>Suggested readings:&lt;/strong> &lt;br> - &lt;a href="https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf" target="_blank" rel="noopener">Sebastian Rascha&amp;rsquo;s Lecture Notes On Regularization&lt;/a>&lt;br> - &lt;a href="https://www.cs.toronto.edu/~lczhang/321/notes/notes09.pdf" target="_blank" rel="noopener">Rogger&amp;rsquo;s Grosse Notes&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;br> - &lt;a href="https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf" target="_blank" rel="noopener">Sebastian Rascha&amp;rsquo;s Lecture Notes On Regularization&lt;/a>&lt;br> - &lt;a href="https://www.cs.toronto.edu/~lczhang/321/notes/notes09.pdf" target="_blank" rel="noopener">Rogger&amp;rsquo;s Grosse Notes&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
@@ -164,7 +164,7 @@ total. Then, the final grade is calculated as follows:
 &lt;td>Lecture 7&lt;/td>
 &lt;td style="text-align:center">23/11/2023&lt;/td>
 &lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Introduction to Neural Networks&lt;br>- Forward Pass and Backpropagation algorithms&lt;/td>
-&lt;td style="text-align:left">&lt;strong>Suggested readings:&lt;/strong> &lt;br> - &lt;a href="https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9" target="_blank" rel="noopener">Neurals network from scratch&lt;/a>&lt;br> - &lt;a href="https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd" target="_blank" rel="noopener">Brief introduction to backpropagation&lt;/a>&lt;/td>
+&lt;td style="text-align:left">&lt;br> - &lt;a href="https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9" target="_blank" rel="noopener">Neurals network from scratch&lt;/a>&lt;br> - &lt;a href="https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd" target="_blank" rel="noopener">Brief introduction to backpropagation&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
@@ -175,49 +175,91 @@ total. Then, the final grade is calculated as follows:
 &lt;tr>
 &lt;td>Lecture 8&lt;/td>
 &lt;td style="text-align:center">30/11/2023&lt;/td>
-&lt;td>TBA&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Gradient Descent Optimization Algorithms &lt;br>- Activation Functions&lt;/td>
+&lt;td style="text-align:left">&lt;br> - &lt;a href="https://www.ruder.io/optimizing-gradient-descent/amp/" target="_blank" rel="noopener">An overview of gradient descent optimization algorithms&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 9&lt;/td>
 &lt;td style="text-align:center">07/12/2023&lt;/td>
-&lt;td>TBA&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Models Evaluation / Performance metrics&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 10&lt;/td>
 &lt;td style="text-align:center">14/12/2023&lt;/td>
-&lt;td>TBA&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Introduction to Convolution Neural Networks (CNN)&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 11&lt;/td>
 &lt;td style="text-align:center">21/12/2023&lt;/td>
-&lt;td>TBA&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Convolution Neural Network Cont.&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 12&lt;/td>
 &lt;td style="text-align:center">11/01/2024&lt;/td>
-&lt;td>TBA&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Introduction to Recurrent Neural Networks (RNN)&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 13&lt;/td>
 &lt;td style="text-align:center">18/01/2024&lt;/td>
-&lt;td>TBA&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Recurrent Neural Networks Cont.&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 14&lt;/td>
 &lt;td style="text-align:center">25/01/2024&lt;/td>
-&lt;td>TBA&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Modern Dimensionality Reduction Techniques&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 15&lt;/td>
 &lt;td style="text-align:center">01/02/2024&lt;/td>
-&lt;td>TBA&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Machine Learning Embeddings&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;/tbody>
