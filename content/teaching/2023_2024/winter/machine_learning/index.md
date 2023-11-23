@@ -48,26 +48,35 @@ total. Then, the final grade is calculated as follows:
 |  	|  	|<br>  	|  	|
 | Lecture 2 	| 12/10/2023 	| **Topics:**<br>- Machine Learning introduction |  	|
 |  	|  	|<br>  	|  	|
-| Lecture 3 	| 19/10/2023 	| **Topics:**<br>- Supervised Learning |  **Suggested readings:** <br>- [Notes On Supervised Learning](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote01_MLsetup.html) |
+| Lecture 3 	| 19/10/2023 	| **Topics:**<br>- Supervised Learning |   <br>- [Notes On Supervised Learning](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote01_MLsetup.html) |
 |  	|  	|<br>  	|  	|
 | Lecture 4 	| 26/10/2023 	| *Lecture cancelled*. To be retaken soon. |  |
 |  	|  	|<br>  	|  	|
-| Lecture 5 	| 09/11/2023 	| **Topics:**<br>- Generalization Error <br>- Bias-Variance Decomposition | **Suggested readings:** <br> - [Andrew Ng's Lecutre Notes On Learning Theory](https://see.stanford.edu/materials/aimlcs229/cs229-notes4.pdf)<br>- [Notes on Bias-Variance Trade Off](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html) |
+| Lecture 5 	| 09/11/2023 	| **Topics:**<br>- Generalization Error <br>- Bias-Variance Decomposition |  <br> - [Andrew Ng's Lecutre Notes On Learning Theory](https://see.stanford.edu/materials/aimlcs229/cs229-notes4.pdf)<br>- [Notes on Bias-Variance Trade Off](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote12.html) |
 |  	|  	|<br>  	|  	|
-| Lecture 6 	| 16/11/2023 	| **Topics:**<br>- Overfitting. Regularization | **Suggested readings:** <br> - [Sebastian Rascha's Lecture Notes On Regularization](https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf)<br> - [Rogger's Grosse Notes](https://www.cs.toronto.edu/~lczhang/321/notes/notes09.pdf) |
+| Lecture 6 	| 16/11/2023 	| **Topics:**<br>- Overfitting. Regularization |  <br> - [Sebastian Rascha's Lecture Notes On Regularization](https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf)<br> - [Rogger's Grosse Notes](https://www.cs.toronto.edu/~lczhang/321/notes/notes09.pdf) |
 |  	|  	|<br>  	|  	|
-| Lecture 7 	| 23/11/2023 	| **Topics:**<br>- Introduction to Neural Networks<br>- Forward Pass and Backpropagation algorithms| **Suggested readings:** <br> - [Neurals network from scratch](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9)<br> - [Brief introduction to backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|
+| Lecture 7 	| 23/11/2023 	| **Topics:**<br>- Introduction to Neural Networks<br>- Forward Pass and Backpropagation algorithms|  <br> - [Neurals network from scratch](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9)<br> - [Brief introduction to backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|
 |  	|  	|<br>  	|  	|
-| Lecture 8 	| 30/11/2023 	| TBA 	|  	|
-| Lecture 9 	| 07/12/2023 	| TBA 	|  	|
-| Lecture 10 	| 14/12/2023 	| TBA 	|  	|
-| Lecture 11 	| 21/12/2023 	| TBA 	|  	|
-| Lecture 12 	| 11/01/2024 	| TBA 	|  	|
-| Lecture 13 	| 18/01/2024 	| TBA 	|  	|
-| Lecture 14 	| 25/01/2024 	| TBA 	|  	|
-| Lecture 15 	| 01/02/2024 	| TBA 	|  	|
+| Lecture 8 	| 30/11/2023 	| **Topics:**<br>- Gradient Descent Optimization Algorithms <br>- Activation Functions  |  <br> - [An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent/amp/)| <br> - [Review Of Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)	|  	|
+|  	|  	|<br>  	|  	|
+| Lecture 9 	| 07/12/2023 	| **Topics:**<br>- Models Evaluation / Performance metrics | 	|  	|
+|  	|  	|<br>  	|  	|
+| Lecture 10 	| 14/12/2023 	| **Topics:**<br>- Introduction to Convolution Neural Networks (CNN)	|  	| |
+|  	|  	|<br>  	|  	|
+| Lecture 11 	| 21/12/2023 	| **Topics:**<br>- Convolution Neural Network Cont. |  	|  |
+|  	|  	|<br>  	|  	|
+| Lecture 12 	| 11/01/2024 	| **Topics:**<br>- Introduction to Recurrent Neural Networks (RNN) 	|  	| |
+|  	|  	|<br>  	|  	|
+| Lecture 13 	| 18/01/2024 	| **Topics:**<br>- Recurrent Neural Networks Cont. |  	|  |
+|  	|  	|<br>  	|  	|
+| Lecture 14 	| 25/01/2024 	| **Topics:**<br>- Modern Dimensionality Reduction Techniques |  	|  |
+|  	|  	|<br>  	|  	|
+| Lecture 15 	| 01/02/2024 	| **Topics:**<br>- Machine Learning Embeddings 	|  	| |
 
 
 **Recommended Books**
 - Hastie, T., Tibshirani, R.,, Friedman, J. (2001). **The Elements of Statistical Learning**. New York, NY, USA: Springer New York Inc.. [PDF Version](https://hastie.su.domains/Papers/ESLII.pdf)
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). **Deep learning**. MIT Press. [Online Version](https://www.deeplearningbook.org/)
+
+[//]: # (&#40;https://github.com/microsoft/generative-ai-for-beginners&#41;)
