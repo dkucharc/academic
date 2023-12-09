@@ -56,23 +56,29 @@ total. Then, the final grade is calculated as follows:
 |  	|  	|<br>  	|  	|
 | Lecture 6 	| 16/11/2023 	| **Topics:**<br>- Overfitting. Regularization |  <br> - [Sebastian Rascha's Lecture Notes On Regularization](https://sebastianraschka.com/pdf/lecture-notes/stat453ss21/L10_regularization__slides.pdf)<br> - [Rogger's Grosse Notes](https://www.cs.toronto.edu/~lczhang/321/notes/notes09.pdf) |
 |  	|  	|<br>  	|  	|
-| Lecture 7 	| 23/11/2023 	| **Topics:**<br>- Introduction to Neural Networks<br>- Forward Pass and Backpropagation algorithms|  <br> - [Neurals network from scratch](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9)<br> - [Brief introduction to backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|
+| Lecture 7 	| 23/11/2023 	| Sickness Leave |  |
 |  	|  	|<br>  	|  	|
-| Lecture 8 	| 30/11/2023 	| **Topics:**<br>- Gradient Descent Optimization Algorithms <br>- Activation Functions  |  <br> - [An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent/amp/)| <br> - [Review Of Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)	|  	|
+| Lecture 8 	| 30/11/2023 	| **Topics:** <br> Introduction to Neural Networks<br>- McCulloch's Perceptron Model <br>- Forward Pass algorithm |  <br> - [Neurals network from scratch](https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9)<br> - [Brief introduction to backpropagation](https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)|
 |  	|  	|<br>  	|  	|
-| Lecture 9 	| 07/12/2023 	| **Topics:**<br>- Models Evaluation / Performance metrics | 	|  	|
+| Lecture 9 	| 4/12/2023 	| **Topics:** <br> Introduction to Neural Networks Cont. <br>- Backpropagation algorithm  |  <br> - [An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent/amp/)| <br> - [Review Of Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)	|  	|
 |  	|  	|<br>  	|  	|
-| Lecture 10 	| 14/12/2023 	| **Topics:**<br>- Introduction to Convolution Neural Networks (CNN)	|  	| |
+| Lecture 10 	| 7/12/2023 	| **Topics:**<br> Efficient Learning Of Neural Network <br>- Batch/Stochastic/Mini-Batch Gradient approaches <br>- Adaptive Methods of Gradient Descent |  <br> - [An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent/amp/)| <br> - [Review Of Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)	|  	|
 |  	|  	|<br>  	|  	|
-| Lecture 11 	| 21/12/2023 	| **Topics:**<br>- Convolution Neural Network Cont. |  	|  |
+| Lecture 11	| 11/12/2023 	| **Topics:**<br> Efficient Learning Of Neural Network Cont. <br>- Vanishing/Exploding Gradient Problems <br>- Weights Initialization|  <br> - [An overview of gradient descent optimization algorithms](https://www.ruder.io/optimizing-gradient-descent/amp/)| <br> - [Review Of Activation Functions](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)	|  	|
 |  	|  	|<br>  	|  	|
-| Lecture 12 	| 11/01/2024 	| **Topics:**<br>- Introduction to Recurrent Neural Networks (RNN) 	|  	| |
+| Lecture 12 	| 14/12/2023 	| **Topics:**<br> How to prevent overfitting in Neural Networks? <br>- Early Stopping Approach <br>- Weights Regularization <br>- Dropout Layer  | 	|  	|
 |  	|  	|<br>  	|  	|
-| Lecture 13 	| 18/01/2024 	| **Topics:**<br>- Recurrent Neural Networks Cont. |  	|  |
+| Lecture 13 	| 18/12/2023 	| **Topics:**<br> Introduction to Convolution Neural Networks (CNN)	|  	| |
 |  	|  	|<br>  	|  	|
-| Lecture 14 	| 25/01/2024 	| **Topics:**<br>- Modern Dimensionality Reduction Techniques |  	|  |
+| Lecture 14 	| 21/12/2023 	| **Topics:**<br> Convolution Neural Network Cont. |  	|  |
 |  	|  	|<br>  	|  	|
-| Lecture 15 	| 01/02/2024 	| **Topics:**<br>- Machine Learning Embeddings 	|  	| |
+| Lecture 15 	| 11/01/2024 	| **Topics:**<br> Introduction to Recurrent Neural Networks (RNN) 	|  	| |
+|  	|  	|<br>  	|  	|
+| Lecture 16 	| 18/01/2024 	| **Topics:**<br> Recurrent Neural Networks Cont. |  	|  |
+|  	|  	|<br>  	|  	|
+| Lecture 17 	| 25/01/2024 	| **Topics:**<br> Modern Dimensionality Reduction Techniques |  	|  |
+|  	|  	|<br>  	|  	|
+| Lecture 18 	| 01/02/2024 	| **Topics:**<br> Machine Learning Embeddings 	|  	| |
 
 
 **Recommended Books**
@@ -80,3 +86,6 @@ total. Then, the final grade is calculated as follows:
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). **Deep learning**. MIT Press. [Online Version](https://www.deeplearningbook.org/)
 
 [//]: # (&#40;https://github.com/microsoft/generative-ai-for-beginners&#41;)
+[//]: # (https://blog.gopenai.com/understanding-transformers-a-step-by-step-math-example-part-1-a7809015150a)
+
+
