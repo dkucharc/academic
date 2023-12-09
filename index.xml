@@ -163,8 +163,8 @@ total. Then, the final grade is calculated as follows:
 &lt;tr>
 &lt;td>Lecture 7&lt;/td>
 &lt;td style="text-align:center">23/11/2023&lt;/td>
-&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Introduction to Neural Networks&lt;br>- Forward Pass and Backpropagation algorithms&lt;/td>
-&lt;td style="text-align:left">&lt;br> - &lt;a href="https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9" target="_blank" rel="noopener">Neurals network from scratch&lt;/a>&lt;br> - &lt;a href="https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd" target="_blank" rel="noopener">Brief introduction to backpropagation&lt;/a>&lt;/td>
+&lt;td>Sickness Leave&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
@@ -175,8 +175,8 @@ total. Then, the final grade is calculated as follows:
 &lt;tr>
 &lt;td>Lecture 8&lt;/td>
 &lt;td style="text-align:center">30/11/2023&lt;/td>
-&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Gradient Descent Optimization Algorithms &lt;br>- Activation Functions&lt;/td>
-&lt;td style="text-align:left">&lt;br> - &lt;a href="https://www.ruder.io/optimizing-gradient-descent/amp/" target="_blank" rel="noopener">An overview of gradient descent optimization algorithms&lt;/a>&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong> &lt;br> Introduction to Neural Networks&lt;br>- McCulloch&amp;rsquo;s Perceptron Model &lt;br>- Forward Pass algorithm&lt;/td>
+&lt;td style="text-align:left">&lt;br> - &lt;a href="https://towardsdatascience.com/machine-learning-for-beginners-an-introduction-to-neural-networks-d49f22d238f9" target="_blank" rel="noopener">Neurals network from scratch&lt;/a>&lt;br> - &lt;a href="https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd" target="_blank" rel="noopener">Brief introduction to backpropagation&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
@@ -186,9 +186,9 @@ total. Then, the final grade is calculated as follows:
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 9&lt;/td>
-&lt;td style="text-align:center">07/12/2023&lt;/td>
-&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Models Evaluation / Performance metrics&lt;/td>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:center">4/12/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong> &lt;br> Introduction to Neural Networks Cont. &lt;br>- Backpropagation algorithm&lt;/td>
+&lt;td style="text-align:left">&lt;br> - &lt;a href="https://www.ruder.io/optimizing-gradient-descent/amp/" target="_blank" rel="noopener">An overview of gradient descent optimization algorithms&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
@@ -198,9 +198,9 @@ total. Then, the final grade is calculated as follows:
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 10&lt;/td>
-&lt;td style="text-align:center">14/12/2023&lt;/td>
-&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Introduction to Convolution Neural Networks (CNN)&lt;/td>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:center">7/12/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br> Efficient Learning Of Neural Network &lt;br>- Batch/Stochastic/Mini-Batch Gradient approaches &lt;br>- Adaptive Methods of Gradient Descent&lt;/td>
+&lt;td style="text-align:left">&lt;br> - &lt;a href="https://www.ruder.io/optimizing-gradient-descent/amp/" target="_blank" rel="noopener">An overview of gradient descent optimization algorithms&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
@@ -210,9 +210,9 @@ total. Then, the final grade is calculated as follows:
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 11&lt;/td>
-&lt;td style="text-align:center">21/12/2023&lt;/td>
-&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Convolution Neural Network Cont.&lt;/td>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td style="text-align:center">11/12/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br> Efficient Learning Of Neural Network Cont. &lt;br>- Vanishing/Exploding Gradient Problems &lt;br>- Weights Initialization&lt;/td>
+&lt;td style="text-align:left">&lt;br> - &lt;a href="https://www.ruder.io/optimizing-gradient-descent/amp/" target="_blank" rel="noopener">An overview of gradient descent optimization algorithms&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;/td>
@@ -222,8 +222,8 @@ total. Then, the final grade is calculated as follows:
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 12&lt;/td>
-&lt;td style="text-align:center">11/01/2024&lt;/td>
-&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Introduction to Recurrent Neural Networks (RNN)&lt;/td>
+&lt;td style="text-align:center">14/12/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br> How to prevent overfitting in Neural Networks? &lt;br>- Early Stopping Approach &lt;br>- Weights Regularization &lt;br>- Dropout Layer&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -234,8 +234,8 @@ total. Then, the final grade is calculated as follows:
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 13&lt;/td>
-&lt;td style="text-align:center">18/01/2024&lt;/td>
-&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Recurrent Neural Networks Cont.&lt;/td>
+&lt;td style="text-align:center">18/12/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br> Introduction to Convolution Neural Networks (CNN)&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -246,8 +246,8 @@ total. Then, the final grade is calculated as follows:
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 14&lt;/td>
-&lt;td style="text-align:center">25/01/2024&lt;/td>
-&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Modern Dimensionality Reduction Techniques&lt;/td>
+&lt;td style="text-align:center">21/12/2023&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br> Convolution Neural Network Cont.&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -258,8 +258,44 @@ total. Then, the final grade is calculated as follows:
 &lt;/tr>
 &lt;tr>
 &lt;td>Lecture 15&lt;/td>
+&lt;td style="text-align:center">11/01/2024&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br> Introduction to Recurrent Neural Networks (RNN)&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 16&lt;/td>
+&lt;td style="text-align:center">18/01/2024&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br> Recurrent Neural Networks Cont.&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 17&lt;/td>
+&lt;td style="text-align:center">25/01/2024&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br> Modern Dimensionality Reduction Techniques&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>&lt;/td>
+&lt;td style="text-align:center">&lt;/td>
+&lt;td>&lt;br>&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lecture 18&lt;/td>
 &lt;td style="text-align:center">01/02/2024&lt;/td>
-&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br>- Machine Learning Embeddings&lt;/td>
+&lt;td>&lt;strong>Topics:&lt;/strong>&lt;br> Machine Learning Embeddings&lt;/td>
 &lt;td style="text-align:left">&lt;/td>
 &lt;/tr>
 &lt;/tbody>
