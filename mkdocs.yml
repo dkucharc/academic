@@ -1,1 +1,10 @@
 site_name: My Academic Page
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  font:
+    text: Roboto
+plugins:
+  - search
+  - blog
