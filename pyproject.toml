@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "academic"
+version = "0.0.0"
+description = "Anansi KG"
+authors = ["Scientific Intelligence <sciint@novonordisk.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+mkdocs = "^1.6.1"
+mkdocs-material = "^9.5.39"
+
+[project.urls]
+"Homepage" = "https://github.com/example/example-project"
+"Bug Tracker" = "https://github.com/example/example-project/issues"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
