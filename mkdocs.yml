@@ -1,4 +1,4 @@
-site_name: My Academic Page
+site_name: DK Academic Page
 theme:
   name: material
   features:
@@ -6,5 +6,12 @@ theme:
   font:
     text: Roboto
 plugins:
+  - tags
   - search
-  - blog
+  - blog:
+      blog_toc: true
+      post_date_format: long
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://pl.linkedin.com/in/danielkucharczyk
