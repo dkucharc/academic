@@ -12,17 +12,18 @@ date:
 - **Name:** Machine Learning
 - **Course Code:** [W13AMA-SM2338G](https://wmat.pwr.edu.pl/fcp/kGBUKOQtTKlQhbx08SlkTVwJQX2o8DAoHNiwFE1xVSHhTFVZpCFghUHcKVigEQUw/46/public/doc/dziekanat/plany_programy/2023_2024/aman/machine_learning.pdf)
 - **Prerequisites:**
-  - Fundamental understanding of linear algebra
-  - Basic understanding of multivariable calculus concepts and optimization algorithm
-  - Ability to write a non-trivial computer program in Python or equivalent
-  - Working knowledge of GitHub.
+    - Fundamental understanding of linear algebra
+    - Basic understanding of multivariable calculus concepts and optimization algorithm
+    - Ability to write a non-trivial computer program in Python or equivalent
+    - Working knowledge of GitHub.
 
 ## Grading Policy
 
-- Assignments: 70%
-- Project: 30%
+- **Assignments:** 70%
+- **Project:** 30%
 
-Grading Scale:
+
+**Grading Scale:**
 
 | **Percents**    | **Grade**    |
 |:---------------:|:------------:|

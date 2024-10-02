@@ -2,11 +2,12 @@
 date:
   created: 2024-10-03
 
+draft: true
 ---
 
-# Week #1 - Introduction to Machine Learning
+# Week #1 - 
+Move from a standalone deployment to a cluster
 
-We hope you are all having fun and wish you all the best for the new year!
 <!-- more -->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
