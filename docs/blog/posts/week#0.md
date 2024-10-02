@@ -1,8 +1,6 @@
 ---
 date:
   created: 2024-10-03
-
-draft: true
 ---
 
 # Week #0 - Course Administrative Guide
@@ -17,11 +15,12 @@ draft: true
   - Fundamental understanding of linear algebra
   - Basic understanding of multivariable calculus concepts and optimization algorithm
   - Ability to write a non-trivial computer program in Python or equivalent
+  - Working knowledge of GitHub.
 
 ## Grading Policy
 
-- Assignments: 60%
-- Project: 40%
+- Assignments: 70%
+- Project: 30%
 
 Grading Scale:
 
@@ -35,7 +34,7 @@ Grading Scale:
 
 ## Assignments and Projects
 
-- Weekly programming assignments due every Wednesday by 11:59 PM or depending on the given deadline communicated separately
+- Weekly programming assignments due every Wednesday by 11:59 PM.
 - Late submissions: 10% penalty per day, up to 3 days
 - Final project proposal and team formation (max. 3 persons) due Week 8 (**21st of November, 2024**),
 - Final project presentation during the last week of classes (**30rd of January, 2025**),
@@ -50,9 +49,7 @@ Grading Scale:
 
 - Attendance **is not** mandatory for all lectures and lab sessions
 
-## Assignments
 
 ## Projects
-
 - [Examples](https://cs230.stanford.edu/past-projects/)
-- Based on: <https://github.com/opencompl/paper-template?tab=readme-ov-file>
+- Project template:  <https://github.com/opencompl/paper-template?tab=readme-ov-file>
