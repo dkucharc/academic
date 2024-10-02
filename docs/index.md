@@ -1,14 +1,12 @@
 # Home
 
-## About
-
 Daniel Kucharczyk is an Assistant Professor with the Faculty od Pure and Applied Mathematics at Wroclaw University of Technology. <br>
 His research interests include the application of mathematics and AI/ML methods in:
 
 - finance,
 - remote sensing.
 
-In addition he has been actively working in the following fields:
+In addition, he has been actively working in the following fields:
 
 - reproducible research,
 - scientific computing,

@@ -1,4 +1,11 @@
 site_name: DK Academic Page
+nav:
+  - Home: index.md
+  - Blob:
+      Intro: blog/index.md
+  - User Guide:
+    - Getting Started: user-guide/getting_started.md
+    - Clean Code: user-guide/clean_code.md
 theme:
   name: material
   features:
