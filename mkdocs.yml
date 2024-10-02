@@ -18,7 +18,13 @@ plugins:
   - blog:
       blog_toc: true
       post_date_format: long
+
 extra:
   social:
     - icon: fontawesome/brands/linkedin
       link: https://pl.linkedin.com/in/danielkucharczyk
+markdown_extensions:
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true

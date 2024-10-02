@@ -50,6 +50,10 @@ An Integrated Development Environment (IDE) can significantly enhance your produ
 4. Press Ctrl+Shift+P (or Cmd+Shift+P on macOS) to open the command palette.
 5. Type "Python: Select Interpreter" and choose your conda environment.
 
+### Project Jupyter*
+   To provides interactive notebook environments ideal for reproducible research.
+   Official website: [Project Jupyter](https://jupyter.org/),
+
 ## 4. Version Control
 
 To ensure reproducibility, use version control for your code:
@@ -66,23 +70,10 @@ To ensure reproducibility, use version control for your code:
    git commit -m "Initial commit"
    ```
 
-## 5. Documentation
-
-Document your environment and setup:
-
-1. Create a `README.md` file in your project root. You can use [GitHub's guide on creating READMEs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes) for best practices.
-2. Include information about your project, its purpose, and setup instructions.
-3. Export your conda environment:
-   ```
-   conda env export > environment.yml
-   ```
-4. Include the `environment.yml` file in your repository.
-
-By following these steps, you'll have a solid foundation for conducting reproducible research. This setup ensures consistent environments across different machines and makes it easier for others to replicate your work.
-
 ## Additional resources
 
 For further reading on reproducible research practices, consider exploring resources from:
+
 - [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
 - [Software Carpentry](https://software-carpentry.org/lessons/)
-- [Project Jupyter](https://jupyter.org/), which provides interactive notebook environments ideal for reproducible research
+

@@ -1,11 +1,20 @@
 ---
 date:
   created: 2024-10-03
+
+authors:
+  - admin
+  
+pin: true
+
+tags:
+  - Machine Learning
+  - Winter 2024/2025
 ---
 
-# Week #0 - Course Administrative Guide
+# Course Administrative Guide
 
-During the first part of the lecture we will review the course syllabus, grading policy, assignment schedule, and available resources to ensure everyone understands the expectations and logistics for our journey into machine learning and reproducible research.
+The review of the course syllabus, grading policy, assignment schedule, and available resources to ensure everyone understands the expectations and logistics for our journey into machine learning and reproducible research.
 <!-- more -->
 
 ## Course Overview
@@ -17,6 +26,57 @@ During the first part of the lecture we will review the course syllabus, grading
     - Basic understanding of multivariable calculus concepts and optimization algorithm
     - Ability to write a non-trivial computer program in Python or equivalent
     - Working knowledge of GitHub.
+
+## Learning Objectives
+
+### Foundational Concepts
+
+- Explain the fundamental principles of machine learning and deep learning
+- Describe the historical development of neural networks and deep learning
+- Define and explain the function of a perceptron
+- Illustrate the structure and operation of artificial neurons
+- Differentiate between various activation functions and their use cases
+
+### Neural Network Architectures
+
+- Design and implement basic feedforward neural networks
+- Analyze the architecture of Convolutional Neural Networks (CNNs) and their applications in image processing
+- Examine the structure of Recurrent Neural Networks (RNNs) and their use in sequential data processing
+- Evaluate the improvements offered by Long Short-Term Memory (LSTM) networks over traditional RNNs
+
+
+### Training and Optimization
+
+- Explain the concept of backpropagation and its role in neural network training
+- Compare and contrast different gradient descent methods (e.g., stochastic, mini-batch, batch)
+- Implement various optimization algorithms to improve model performance
+
+
+### Practical Implementation
+
+- Utilize NumPy to build neural networks from scratch
+- Develop deep learning models using high-level frameworks such as Keras and PyTorch
+- Apply CNN architectures to solve image classification problems
+- Implement RNN and LSTM models for natural language processing tasks
+
+### Advanced Topics
+
+- Discuss regularization techniques to prevent overfitting in deep learning models
+- Explore transfer learning and its applications in various domains
+- Evaluate the ethical implications and potential biases in deep learning systems
+
+
+### Project Work
+
+- Design, implement, and evaluate a deep learning solution for a real-world problem
+- Present and defend the choices made in model architecture and training process
+
+
+### Critical Analysis
+
+- Compare the performance of different deep learning architectures on various tasks
+- Critically analyze current research papers in the field of deep learning
+- Identify limitations and potential future directions in deep learning research
 
 ## Grading Policy
 
