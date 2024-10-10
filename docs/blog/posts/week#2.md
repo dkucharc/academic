@@ -11,7 +11,7 @@ categories:
 ---
 
 # Week #2 - Linear Regression model
-During the lecture the liner regression models will be discussed in the context of machine learning.  
+The review of the liner regression models in the context of machine learning and the usage of gradient descent method.  
 
 <!-- more -->
 
