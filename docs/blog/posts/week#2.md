@@ -11,7 +11,7 @@ categories:
 ---
 
 # Week #2 - Linear Regression model
-In the second part of our first lecture, we will embark on an exciting journey into the world of machine learning (ML) and the critical importance of reproducible research. 
+During the lecture the liner regression models will be discussed in the context of machine learning.  
 
 <!-- more -->
 
