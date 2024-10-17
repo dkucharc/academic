@@ -9,10 +9,8 @@
       
       
       
-        <link rel="prev" href="../week-1---introduction-to-machine-learning-and-reproducible-research/">
+        <link rel="prev" href="../../10/week-2---linear-regression-model/">
       
-      
-        <link rel="next" href="../../10/week-2---linear-regression-model/">
       
       
       <link rel="icon" href="../../../../../assets/images/favicon.png">
@@ -20,7 +18,7 @@
     
     
       
-        <title>Course Administrative Guide - DK Academic Page</title>
+        <title>Week #3 - Supervised Machine Learning - DK Academic Page</title>
       
     
     
@@ -62,7 +60,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#course-administrative-guide" class="md-skip">
+        <a href="#week-3-supervised-machine-learning" class="md-skip">
           Skip to content
         </a>
       
@@ -96,7 +94,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Course Administrative Guide
+              Week #3 - Supervised Machine Learning
             
           </span>
         </div>
@@ -615,188 +613,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#course-overview" class="md-nav__link">
-    <span class="md-ellipsis">
-      Course Overview
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#learning-objectives" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learning Objectives
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Learning Objectives">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#foundational-concepts" class="md-nav__link">
-    <span class="md-ellipsis">
-      Foundational Concepts
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#neural-network-architectures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Neural Network Architectures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#training-and-optimization" class="md-nav__link">
-    <span class="md-ellipsis">
-      Training and Optimization
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#practical-implementation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Practical Implementation
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#advanced-topics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Advanced Topics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#project-work" class="md-nav__link">
-    <span class="md-ellipsis">
-      Project Work
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#critical-analysis" class="md-nav__link">
-    <span class="md-ellipsis">
-      Critical Analysis
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#grading-policy" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grading Policy
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#assignments-and-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Assignments and Projects
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#academic-integrity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Academic Integrity
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#attendance-policy" class="md-nav__link">
-    <span class="md-ellipsis">
-      Attendance Policy
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Projects
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#references" class="md-nav__link">
-    <span class="md-ellipsis">
-      References
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="References">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#machine-learning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Machine Learning
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#deep-learning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Deep Learning
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#specialized-topics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Specialized Topics
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -851,10 +667,21 @@
                     <li class="md-nav__item">
                       <div class="md-nav__link">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5z"/></svg>
-                        <time datetime="2024-10-03 00:00:00" class="md-ellipsis">October 3, 2024</time>
+                        <time datetime="2024-10-17 00:00:00" class="md-ellipsis">October 17, 2024</time>
                       </div>
                     </li>
                     
+                    
+                      <li class="md-nav__item">
+                        <div class="md-nav__link">
+                          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 3v15h3V3zm3 2 4 13 3-1-4-13zM5 5v13h3V5zM3 19v2h18v-2z"/></svg>
+                          <span class="md-ellipsis">
+                            in
+                            
+                              <a href="../../../../category/machine-learning/">Machine Learning</a>, 
+                              <a href="../../../../category/winter-20242025/">Winter 2024/2025</a></span>
+                        </div>
+                      </li>
                     
                     
                       
@@ -863,7 +690,7 @@
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg>
                           <span class="md-ellipsis">
                             
-                              3 min read
+                              1 min read
                             
                           </span>
                         </div>
@@ -881,193 +708,22 @@
     <article class="md-content__inner md-typeset">
       
         
-  
-  
-
-<nav class="md-tags" >
-  
-    
-    
-    
-      <span class="md-tag">Machine Learning</span>
-    
-  
-    
-    
-    
-      <span class="md-tag">Winter 2024/2025</span>
-    
-  
-</nav>
 
 
-
-<h1 id="course-administrative-guide">Course Administrative Guide</h1>
-<p>The review of the course syllabus, grading policy, assignment schedule, and available resources to ensure everyone understands the expectations and logistics for our journey into machine learning and reproducible research.</p>
+<h1 id="week-3-supervised-machine-learning">Week #3 - Supervised Machine Learning</h1>
+<p>In this class, we'll explore the core principles of supervised machine learning. We'll cover how to represent data, formulate learning problems, and train models using mathematical frameworks. Key topics include feature spaces, hypothesis functions, loss minimization, and generalization. We'll also discuss practical aspects like data splitting and model evaluation. By the end, you'll understand how to approach a machine learning problem from formulation to implementation, providing a foundation for more advanced ML concepts.</p>
 <!-- more -->
 
-<h2 id="course-overview">Course Overview</h2>
+<p><strong>Learning objectives:</strong></p>
 <ul>
-<li><strong>Name:</strong> Machine Learning</li>
-<li><strong>Course Code:</strong> <a href="https://wmat.pwr.edu.pl/fcp/kGBUKOQtTKlQhbx08SlkTVwJQX2o8DAoHNiwFE1xVSHhTFVZpCFghUHcKVigEQUw/46/public/doc/dziekanat/plany_programy/2023_2024/aman/machine_learning.pdf">W13AMA-SM2338G</a></li>
-<li><strong>Prerequisites:</strong><ul>
-<li>Fundamental understanding of linear algebra</li>
-<li>Basic understanding of multivariable calculus concepts and optimization algorithm</li>
-<li>Ability to write a non-trivial computer program in Python or equivalent</li>
-<li>Working knowledge of GitHub.</li>
+<li>Formalize the supervised machine learning setup, including understanding the concepts of training data, feature spaces, label spaces, and hypothesis functions.</li>
+<li>Comprehend different types of classification problems (binary, multi-class) and regression, along with their corresponding label spaces and feature vector characteristics.</li>
+<li>Understand the process of learning a hypothesis function, including selecting an appropriate algorithm and finding the best function within the hypothesis class using loss functions.</li>
+<li>Grasp the concept of generalization and the importance of train/test splits to address overfitting concerns, including the role of validation data in model development.</li>
+<li>Learn how to properly train and evaluate a classifier, including the formulas for minimizing training loss and calculating testing loss, as well as understanding how these relate to the true generalization loss.</li>
 </ul>
-</li>
-</ul>
-<h2 id="learning-objectives">Learning Objectives</h2>
-<h3 id="foundational-concepts">Foundational Concepts</h3>
-<ul>
-<li>Explain the fundamental principles of machine learning and deep learning</li>
-<li>Describe the historical development of neural networks and deep learning</li>
-<li>Define and explain the function of a perceptron</li>
-<li>Illustrate the structure and operation of artificial neurons</li>
-<li>Differentiate between various activation functions and their use cases</li>
-</ul>
-<h3 id="neural-network-architectures">Neural Network Architectures</h3>
-<ul>
-<li>Design and implement basic feedforward neural networks</li>
-<li>Analyze the architecture of Convolutional Neural Networks (CNNs) and their applications in image processing</li>
-<li>Examine the structure of Recurrent Neural Networks (RNNs) and their use in sequential data processing</li>
-<li>Evaluate the improvements offered by Long Short-Term Memory (LSTM) networks over traditional RNNs</li>
-</ul>
-<h3 id="training-and-optimization">Training and Optimization</h3>
-<ul>
-<li>Explain the concept of backpropagation and its role in neural network training</li>
-<li>Compare and contrast different gradient descent methods (e.g., stochastic, mini-batch, batch)</li>
-<li>Implement various optimization algorithms to improve model performance</li>
-</ul>
-<h3 id="practical-implementation">Practical Implementation</h3>
-<ul>
-<li>Utilize NumPy to build neural networks from scratch</li>
-<li>Develop deep learning models using high-level frameworks such as Keras and PyTorch</li>
-<li>Apply CNN architectures to solve image classification problems</li>
-<li>Implement RNN and LSTM models for natural language processing tasks</li>
-</ul>
-<h3 id="advanced-topics">Advanced Topics</h3>
-<ul>
-<li>Discuss regularization techniques to prevent overfitting in deep learning models</li>
-<li>Explore transfer learning and its applications in various domains</li>
-<li>Evaluate the ethical implications and potential biases in deep learning systems</li>
-</ul>
-<h3 id="project-work">Project Work</h3>
-<ul>
-<li>Design, implement, and evaluate a deep learning solution for a real-world problem</li>
-<li>Present and defend the choices made in model architecture and training process</li>
-</ul>
-<h3 id="critical-analysis">Critical Analysis</h3>
-<ul>
-<li>Compare the performance of different deep learning architectures on various tasks</li>
-<li>Critically analyze current research papers in the field of deep learning</li>
-<li>Identify limitations and potential future directions in deep learning research</li>
-</ul>
-<h2 id="grading-policy">Grading Policy</h2>
-<ul>
-<li><strong>Assignments:</strong> 70%</li>
-<li><strong>Project:</strong> 30%</li>
-</ul>
-<p><strong>Grading Scale:</strong></p>
-<table>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Percents</strong></th>
-<th style="text-align: center;"><strong>Grade</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">&gt;90%</td>
-<td style="text-align: center;">5</td>
-</tr>
-<tr>
-<td style="text-align: center;">[80%, 90%)</td>
-<td style="text-align: center;">4.5</td>
-</tr>
-<tr>
-<td style="text-align: center;">[70%, 80%)</td>
-<td style="text-align: center;">4</td>
-</tr>
-<tr>
-<td style="text-align: center;">[60%, 70%)</td>
-<td style="text-align: center;">3.5</td>
-</tr>
-<tr>
-<td style="text-align: center;">[50%, 60%)</td>
-<td style="text-align: center;">3</td>
-</tr>
-</tbody>
-</table>
-<h2 id="assignments-and-projects">Assignments and Projects</h2>
-<ul>
-<li>Weekly programming assignments due every Wednesday by 11:59 PM.</li>
-<li>Late submissions: 10% penalty per day, up to 3 days</li>
-<li>Final project proposal and team formation (max. 3 persons) due Week 8 (<strong>21st of November, 2024</strong>),</li>
-<li>Final project presentation during the last week of classes (<strong>30rd of January, 2025</strong>),</li>
-</ul>
-<h2 id="academic-integrity">Academic Integrity</h2>
-<ul>
-<li>All submitted work must be original</li>
-<li>Collaboration on assignments is encouraged, but submitted code must be individual work</li>
-<li>Plagiarism or cheating will result in a failing grade for the assignment and possible disciplinary action</li>
-</ul>
-<h2 id="attendance-policy">Attendance Policy</h2>
-<ul>
-<li>Attendance <strong>is not</strong> mandatory for all lectures and lab sessions</li>
-</ul>
-<h2 id="projects">Projects</h2>
-<ul>
-<li><a href="https://cs230.stanford.edu/past-projects/">Examples</a></li>
-<li>Project template:  <a href="https://github.com/opencompl/paper-template?tab=readme-ov-file">https://github.com/opencompl/paper-template?tab=readme-ov-file</a></li>
-</ul>
-<h2 id="references">References</h2>
-<h3 id="machine-learning">Machine Learning</h3>
-<ol>
-<li>
-<p><strong><a href="https://web.stanford.edu/~hastie/ElemStatLearn/">The Elements of Statistical Learning</a></strong> by Trevor Hastie, Robert Tibshirani, and Jerome Friedman.</p>
-</li>
-<li>
-<p><strong><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">Pattern Recognition and Machine Learning</a></strong> by Christopher Bishop.</p>
-</li>
-<li>
-<p><strong><a href="https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/">Introduction to Machine Learning with Python</a></strong> by Andreas C. Müller &amp; Sarah Guido.</p>
-</li>
-<li>
-<p><strong><a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/">Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</a></strong> by Aurélien Géron.</p>
-</li>
-</ol>
-<h3 id="deep-learning">Deep Learning</h3>
-<ol>
-<li>
-<p><strong><a href="https://www.deeplearningbook.org/">Deep Learning</a></strong> by Ian Goodfellow, Yoshua Bengio, and Aaron Courville</p>
-</li>
-<li>
-<p><strong><a href="http://neuralnetworksanddeeplearning.com/">Neural Networks and Deep Learning</a></strong> by Michael Nielsen.</p>
-</li>
-<li>
-<p><strong><a href="https://www.manning.com/books/deep-learning-with-python">Deep Learning with Python</a></strong> by François Chollet.</p>
-</li>
-<li>
-<p><strong><a href="https://www.manning.com/books/grokking-deep-learning">Grokking Deep Learning</a></strong> by Andrew W. Trask.</p>
-</li>
-</ol>
-<h3 id="specialized-topics">Specialized Topics</h3>
-<ol>
-<li>
-<p><strong><a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/">Natural Language Processing with Transformers</a></strong> by Lewis Tunstall, Leandro von Werra, and Thomas Wolf.</p>
-</li>
-<li>
-<p><strong><a href="http://incompleteideas.net/book/the-book-2nd.html">Reinforcement Learning: An Introduction</a></strong> by Richard S. Sutton and Andrew G. Barto.</p>
-</li>
-<li>
-<p><strong><a href="https://szeliski.org/Book/">Computer Vision: Algorithms and Applications</a></strong> by Richard Szeliski. </p>
-</li>
-<li>
-<p><strong><a href="https://mitpress.mit.edu/books/probabilistic-graphical-models">Probabilistic Graphical Models: Principles and Techniques</a></strong> by Daphne Koller and Nir Friedman. </p>
-</li>
-</ol>
+<p><strong>Laboratory</strong>
+TBA</p>
 
 
 
