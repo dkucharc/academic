@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2024-10-17
+  created: 2024-10-10
 
 authors:
   - admin
@@ -12,7 +12,7 @@ categories:
 
 # Week #3 - Supervised Machine Learning
   
-In this class, we'll explore the core principles of supervised machine learning. We'll cover how to represent data, formulate learning problems, and train models using mathematical frameworks. Key topics include feature spaces, hypothesis functions, loss minimization, and generalization. We'll also discuss practical aspects like data splitting and model evaluation. By the end, you'll understand how to approach a machine learning problem from formulation to implementation, providing a foundation for more advanced ML concepts.
+
 <!-- more -->
 
 **Learning objectives:**
@@ -24,4 +24,5 @@ In this class, we'll explore the core principles of supervised machine learning.
 - Learn how to properly train and evaluate a classifier, including the formulas for minimizing training loss and calculating testing loss, as well as understanding how these relate to the true generalization loss.
 
 **Laboratory**
-TBA
+
+https://classroom.github.com/a/AUoF7uBb
