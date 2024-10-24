@@ -76,4 +76,3 @@ For further reading on reproducible research practices, consider exploring resou
 
 - [The Turing Way](https://the-turing-way.netlify.app/reproducible-research/reproducible-research.html)
 - [Software Carpentry](https://software-carpentry.org/lessons/)
-

@@ -4,14 +4,14 @@ date:
 
 authors:
   - admin
-    
-categories:  
+
+categories:
   - Machine Learning
   - Winter 2024/2025
 ---
 
 # Week #1 - Introduction to Machine Learning and Reproducible Research
-In the second part of our first lecture, we will embark on an exciting journey into the world of machine learning (ML) and the critical importance of reproducible research. 
+In the second part of our first lecture, we will embark on an exciting journey into the world of machine learning (ML) and the critical importance of reproducible research.
 
 <!-- more -->
 

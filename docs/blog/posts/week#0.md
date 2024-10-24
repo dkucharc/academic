@@ -4,7 +4,7 @@ date:
 
 authors:
   - admin
-  
+
 pin: true
 
 tags:
@@ -146,6 +146,6 @@ The review of the course syllabus, grading policy, assignment schedule, and avai
 
 2. **[Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)** by Richard S. Sutton and Andrew G. Barto.
 
-3. **[Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)** by Richard Szeliski. 
+3. **[Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)** by Richard Szeliski.
 
-4. **[Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models)** by Daphne Koller and Nir Friedman. 
+4. **[Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models)** by Daphne Koller and Nir Friedman.

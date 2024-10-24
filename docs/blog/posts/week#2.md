@@ -4,14 +4,14 @@ date:
 
 authors:
   - admin
-    
-categories:  
+
+categories:
   - Machine Learning
   - Winter 2024/2025
 ---
 
 # Week #2 - Linear Regression model
-The review of the liner regression models in the context of machine learning and the usage of gradient descent method.  
+The review of the liner regression models in the context of machine learning and the usage of gradient descent method.
 
 <!-- more -->
 

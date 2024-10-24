@@ -4,14 +4,14 @@ date:
 
 authors:
   - admin
-    
-categories:  
+
+categories:
   - Machine Learning
   - Winter 2024/2025
 ---
 
 # Week #3 - Supervised Machine Learning
-  
+
 
 <!-- more -->
 

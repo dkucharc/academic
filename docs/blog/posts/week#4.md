@@ -4,14 +4,14 @@ date:
 
 authors:
   - admin
-    
-categories:  
+
+categories:
   - Machine Learning
   - Winter 2024/2025
 ---
 
 # Week #4 - Model Selection and Hyperparameter Tuning
-  
+
 
 <!-- more -->
 
