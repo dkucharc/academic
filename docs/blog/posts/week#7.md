@@ -19,5 +19,3 @@ categories:
 TBA
 
 **Laboratory**
-
-

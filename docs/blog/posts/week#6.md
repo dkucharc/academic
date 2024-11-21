@@ -22,5 +22,3 @@ draft: false
 TBA
 
 **Laboratory**
-
-
