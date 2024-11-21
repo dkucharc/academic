@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2024-11-14
+  created: 2024-11-21
 
 authors:
   - admin
@@ -8,9 +8,12 @@ authors:
 categories:
   - Machine Learning
   - Winter 2024/2025
+
+
+draft: false
 ---
 
-# Week #5 - Introduction to Neural Networks
+# Week #6 - Multilayer Perceptron Models
 
 
 <!-- more -->
@@ -20,4 +23,4 @@ TBA
 
 **Laboratory**
 
-https://classroom.github.com/a/2BzNhU74
+

@@ -5,7 +5,7 @@ date:
 authors:
   - admin
 
-pin: true
+pin: false
 
 tags:
   - Machine Learning

@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2024-11-14
+  created: 2024-11-28
 
 authors:
   - admin
@@ -10,7 +10,7 @@ categories:
   - Winter 2024/2025
 ---
 
-# Week #5 - Introduction to Neural Networks
+# Week #7 - Backpropagation
 
 
 <!-- more -->
@@ -20,4 +20,4 @@ TBA
 
 **Laboratory**
 
-https://classroom.github.com/a/2BzNhU74
+
