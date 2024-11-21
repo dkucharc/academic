@@ -31,6 +31,7 @@ In today's lecture, we'll dive into multilayer perceptrons (MLPs), understanding
 TBA
 
 **Resources**
+
 - https://brilliant.org/wiki/artificial-neural-network/
 - https://brilliant.org/wiki/feedforward-neural-networks/
 - https://brilliant.org/wiki/backpropagation/
