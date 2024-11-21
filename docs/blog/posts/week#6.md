@@ -20,6 +20,7 @@ In today's lecture, we'll dive into multilayer perceptrons (MLPs), understanding
 <!-- more -->
 
 **Learning objectives:**
+
 - Explain the architecture of multilayer perceptrons and how hidden layers enable non-linear function approximation
 - Understand the mathematics behind the backpropagation algorithm and its role in training MLPs
 - Explore the Universal Approximation Theorem and its implications for MLP capabilities and limitations
