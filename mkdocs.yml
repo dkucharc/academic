@@ -1,7 +1,7 @@
 site_name: DK Academic Page
 nav:
   - Home: index.md
-  - Blob:
+  - Blog:
       Intro: blog/index.md
   - User Guide:
     - Getting Started: user-guide/getting_started.md
