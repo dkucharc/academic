@@ -10,29 +10,28 @@ categories:
   - Winter 2024/2025
 
 
-draft: true
+draft: false
 ---
 
-# Week #8 - Multilayer Perceptrons
+# Week #8 - Autoencoders
 
-In today's lecture, we'll dive into multilayer perceptrons (MLPs), understanding how these more sophisticated neural networks overcome the limitations of single-layer models by utilizing hidden layers, backpropagation for learning, and their ability to solve complex non-linear problems that form the foundation of modern deep learning architectures.
+In today's lecture, we'll explore autoencoders - a specialized neural network architecture that learns to compress data into a lower-dimensional representation and then reconstruct it. We'll examine how these self-supervised models work, their various architectures, and their practical applications in dimensionality reduction, denoising, and generative modeling.
 
 <!-- more -->
 
 **Learning objectives:**
 
-- Explain the architecture of multilayer perceptrons and how hidden layers enable non-linear function approximation
-- Understand the mathematics behind the backpropagation algorithm and its role in training MLPs
-- Explore the Universal Approximation Theorem and its implications for MLP capabilities and limitations
-- Implement and train an MLP to solve the XOR problem, demonstrating the advantage over single-layer perceptrons
-- Explore activation functions (sigmoid, tanh, ReLU) and their impact on network performance and training dynamics
-- Apply MLPs to real-world classification and regression problems, including techniques for avoiding overfitting
+- Understand the fundamental architecture of autoencoders including encoder, latent space, and decoder components
+- Explore different types of autoencoders (vanilla, denoising, variational, sparse) and their specific use cases
+- Master the mathematics behind latent space representations and reconstruction loss
+- Implement and train basic autoencoders for dimensionality reduction and feature learning
+- Learn techniques for regularizing autoencoders to prevent memorization and encourage useful representations
+- Analyze the quality of learned representations through reconstruction visualization and latent space exploration
+- Apply autoencoders to practical tasks like image denoising, anomaly detection, and data compression
+- Understand the connection between autoencoders and modern generative models like VAEs
 
 **Laboratory**
-TBA
+- TBA
 
 **Resources**
-
-- https://brilliant.org/wiki/artificial-neural-network/
-- https://brilliant.org/wiki/feedforward-neural-networks/
-- https://brilliant.org/wiki/backpropagation/
+- TBA

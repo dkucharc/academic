@@ -10,29 +10,27 @@ categories:
   - Winter 2024/2025
 
 
-draft: true
+draft: false
 ---
 
-# Week #7 - Multilayer Perceptrons
+# Week #7 - Efficient training of neural networks
 
-In today's lecture, we'll dive into multilayer perceptrons (MLPs), understanding how these more sophisticated neural networks overcome the limitations of single-layer models by utilizing hidden layers, backpropagation for learning, and their ability to solve complex non-linear problems that form the foundation of modern deep learning architectures.
+In today's lecture, we'll explore essential techniques for efficiently training and evaluating neural networks, with a particular focus on understanding and interpreting learning curves. We'll examine how to diagnose common training issues, optimize the learning process, and develop intuition for model behavior through careful analysis of loss and accuracy metrics throughout the training cycle.
 
 <!-- more -->
 
 **Learning objectives:**
 
-- Explain the architecture of multilayer perceptrons and how hidden layers enable non-linear function approximation
-- Understand the mathematics behind the backpropagation algorithm and its role in training MLPs
-- Explore the Universal Approximation Theorem and its implications for MLP capabilities and limitations
-- Implement and train an MLP to solve the XOR problem, demonstrating the advantage over single-layer perceptrons
-- Explore activation functions (sigmoid, tanh, ReLU) and their impact on network performance and training dynamics
-- Apply MLPs to real-world classification and regression problems, including techniques for avoiding overfitting
+- Master the interpretation of loss and accuracy curves to diagnose model learning behavior and common problems
+- Understand the relationship between training and validation metrics, and their implications for model generalization
+- Identify and address common training issues including underfitting, overfitting, and learning rate problems through curve analysis
+- Learn practical techniques for monitoring and visualizing neural network training progress
+- Explore methods for early stopping and learning rate scheduling based on performance metrics
+- Apply diagnostic tools and visualization techniques to real-world model development scenarios
+- Implement efficient training practices including batch normalization and gradient clipping
 
 **Laboratory**
-TBA
+- TBA
 
 **Resources**
-
-- https://brilliant.org/wiki/artificial-neural-network/
-- https://brilliant.org/wiki/feedforward-neural-networks/
-- https://brilliant.org/wiki/backpropagation/
+- TBA
