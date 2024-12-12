@@ -29,7 +29,7 @@ In today's lecture, we'll dive into multilayer perceptrons (MLPs), understanding
 - Apply MLPs to real-world classification and regression problems, including techniques for avoiding overfitting
 
 **Laboratory**
-TBA
+- https://classroom.github.com/a/TsVyFAQ1
 
 **Resources**
 
