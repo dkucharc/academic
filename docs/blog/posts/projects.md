@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2024-12-12
+  created: 2025-01-30
 
 authors:
   - admin
@@ -16,7 +16,7 @@ tags:
 
 Dear Students!
 
-Please register your teams/projects by visting https://classroom.github.com/a/4PocFZrV.
+Please register your teams/projects by visiting https://classroom.github.com/a/4PocFZrV.
 
 After registering the team and getting access to the relevant (empty) repository, please perform the following tasks:
 
