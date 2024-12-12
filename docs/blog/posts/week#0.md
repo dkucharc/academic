@@ -115,7 +115,7 @@ The review of the course syllabus, grading policy, assignment schedule, and avai
 ## Projects
 - [Examples](https://cs230.stanford.edu/past-projects/)
 - Project template:  <https://github.com/opencompl/paper-template?tab=readme-ov-file>
-
+- [Register your project](https://classroom.github.com/a/4PocFZrV)
 
 ## References
 
