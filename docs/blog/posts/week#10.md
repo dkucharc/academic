@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2024-01-09
+  created: 2025-01-16
 
 authors:
   - admin
@@ -13,7 +13,7 @@ categories:
 draft: false
 ---
 
-# Week #9 - Convolutional Neural Networks
+# Week #10 - Convolutional Neural Networks - Architecture Review
 
 In today's lecture, we'll dive into Convolutional Neural Networks (CNNs) and their foundational role in computer vision. We'll explore how these specialized architectures leverage spatial relationships in visual data, their core building blocks, and how they've revolutionized image processing tasks from classification to segmentation.
 
@@ -30,7 +30,7 @@ In today's lecture, we'll dive into Convolutional Neural Networks (CNNs) and the
 - Apply CNNs to core computer vision tasks: image classification, object detection, and segmentation
 - Master practical considerations including data augmentation, batch normalization, and GPU acceleration
 - Explore modern architectural innovations like skip connections, inception modules, and attention mechanisms
-- 
+
 **Laboratory**
 - TBA
 
