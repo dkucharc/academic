@@ -9,7 +9,7 @@ pin: true
 
 tags:
   - Machine Learning
-  - Winter 2024/2025
+  - Winter 2025/2026
 ---
 
 # Course Administrative Guide
@@ -149,3 +149,7 @@ The review of the course syllabus, grading policy, assignment schedule, and avai
 3. **[Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)** by Richard Szeliski.
 
 4. **[Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models)** by Daphne Koller and Nir Friedman.
+
+## Labs:
+
+https://classroom.github.com/a/bWAhi7QO
