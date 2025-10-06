@@ -150,6 +150,6 @@ The review of the course syllabus, grading policy, assignment schedule, and avai
 
 4. **[Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models)** by Daphne Koller and Nir Friedman.
 
-## Labs:
+### Labs
 
-https://classroom.github.com/a/bWAhi7QO
+[https://classroom.github.com/a/bWAhi7QO](https://classroom.github.com/a/bWAhi7QO)
