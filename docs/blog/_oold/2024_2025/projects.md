@@ -20,8 +20,8 @@ Please register your teams/projects by visiting https://classroom.github.com/a/4
 
 After registering the team and getting access to the relevant (empty) repository, please perform the following tasks:
 
-- Create `README.md` file containing basic information about the project, that is, 
+- Create `README.md` file containing basic information about the project, that is,
   - Name of the project
   - Short description
-  - Dataset to be used 
+  - Dataset to be used
   - List of participants (including official emails from WUST)

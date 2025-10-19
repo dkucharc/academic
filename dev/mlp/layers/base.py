@@ -13,4 +13,3 @@ class BaseLayer(ABC):
 
     def update(self, learning_rate: float) -> None:
         pass
-

@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2024-10-03
+  created: 2025-10-06
 
 authors:
   - admin
@@ -10,6 +10,7 @@ pin: true
 tags:
   - Machine Learning
   - Winter 2025/2026
+  - Course Rules
 ---
 
 # Course Administrative Guide
@@ -20,12 +21,11 @@ The review of the course syllabus, grading policy, assignment schedule, and avai
 ## Course Overview
 
 - **Name:** Machine Learning
-- **Course Code:** [W13AMA-SM2338G](https://wmat.pwr.edu.pl/fcp/kGBUKOQtTKlQhbx08SlkTVwJQX2o8DAoHNiwFE1xVSHhTFVZpCFghUHcKVigEQUw/46/public/doc/dziekanat/plany_programy/2023_2024/aman/machine_learning.pdf)
 - **Prerequisites:**
     - Fundamental understanding of linear algebra
     - Basic understanding of multivariable calculus concepts and optimization algorithm
     - Ability to write a non-trivial computer program in Python or equivalent
-    - Working knowledge of GitHub.
+    - Working knowledge of [GitHub](https://github.com/).
 
 ## Learning Objectives
 
@@ -54,8 +54,8 @@ The review of the course syllabus, grading policy, assignment schedule, and avai
 
 ### Practical Implementation
 
-- Utilize NumPy to build neural networks from scratch
-- Develop deep learning models using high-level frameworks such as Keras and PyTorch
+- Utilize [NumPy](https://numpy.org/) to build neural networks from scratch
+- Develop deep learning models using high-level frameworks such as [Keras](https://keras.io/) and [PyTorch](https://pytorch.org/)
 - Apply CNN architectures to solve image classification problems
 - Implement RNN and LSTM models for natural language processing tasks
 
@@ -96,10 +96,10 @@ The review of the course syllabus, grading policy, assignment schedule, and avai
 
 ## Assignments and Projects
 
-- Weekly programming assignments due every Wednesday by 11:59 PM.
-- Late submissions: 10% penalty per day, up to 3 days
-- Final project proposal and team formation (max. 3 persons) due Week 8 (**21st of November, 2024**),
-- Final project presentation during the last week of classes (**30rd of January, 2025**),
+- Weekly programming assignments due every Sunday by 11:59 PM CET.
+- Late submissions: Not allowed
+- Final project proposal and team formation (max. 2 persons) due (**1st of December, 2025**),
+- Final project presentation during the last week of classes (**26th of January, 2026**),
 
 ## Academic Integrity
 
@@ -111,6 +111,9 @@ The review of the course syllabus, grading policy, assignment schedule, and avai
 
 - Attendance **is not** mandatory for all lectures and lab sessions
 
+## Laboratories
+
+Labs assignments are organized and handle via https://classroom.github.com/.
 
 ## Projects
 - [Examples](https://cs230.stanford.edu/past-projects/)
@@ -149,7 +152,3 @@ The review of the course syllabus, grading policy, assignment schedule, and avai
 3. **[Computer Vision: Algorithms and Applications](https://szeliski.org/Book/)** by Richard Szeliski.
 
 4. **[Probabilistic Graphical Models: Principles and Techniques](https://mitpress.mit.edu/books/probabilistic-graphical-models)** by Daphne Koller and Nir Friedman.
-
-### Labs
-
-[https://classroom.github.com/a/bWAhi7QO](https://classroom.github.com/a/bWAhi7QO)
