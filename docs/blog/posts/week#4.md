@@ -1,16 +1,18 @@
 ---
 date:
-  created: 2025-11-03
+  created: 2025-10-27
 
 authors:
   - admin
+
+pin: true
 
 categories:
   - Machine Learning
   - Winter 2025/2026
 ---
 
-# Week #4 - Model Selection and Hyperparameter Tuning
+# Week #4 - Model Selection and Hyperparameter Tuning - POSTPONED!
 
 
 <!-- more -->
@@ -26,3 +28,4 @@ categories:
 **Laboratory**
 
 https://classroom.github.com/a/NhRt73hM
+
