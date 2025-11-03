@@ -1,6 +1,6 @@
 ---
 date:
-  created: 2025-10-27
+  created: 2025-11-03
 
 authors:
   - admin
@@ -12,7 +12,7 @@ categories:
   - Winter 2025/2026
 ---
 
-# Week #4 - Model Selection and Hyperparameter Tuning - POSTPONED!
+# Week #4 - Model Selection and Hyperparameter Tuning
 
 
 <!-- more -->
@@ -27,5 +27,5 @@ categories:
 
 **Laboratory**
 
-https://classroom.github.com/a/NhRt73hM
+https://classroom.github.com/a/DQ-pNEHR
 
