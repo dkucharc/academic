@@ -5,6 +5,8 @@ date:
 authors:
   - admin
 
+pin: true
+
 categories:
   - Machine Learning
   - Winter 2025/2026
