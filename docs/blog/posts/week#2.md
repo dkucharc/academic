@@ -25,4 +25,4 @@ The review of the liner regression models in the context of machine learning and
 
 **Laboratory**
 
-https://classroom.github.com/a/5B0qAInA
+[https://classroom.github.com/a/ny3Psbsu](https://classroom.github.com/a/ny3Psbsu)
