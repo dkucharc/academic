@@ -118,7 +118,7 @@ Labs assignments are organized and handle via https://classroom.github.com/.
 ## Projects
 - [Examples](https://cs230.stanford.edu/past-projects/)
 - Project template:  <https://github.com/opencompl/paper-template?tab=readme-ov-file>
-- [Register your project](https://classroom.github.com/a/4PocFZrV)
+- [Register your project](https://classroom.github.com/a/8IaD4y4E)
 
 ## References
 
