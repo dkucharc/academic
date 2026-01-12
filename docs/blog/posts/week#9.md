@@ -31,7 +31,7 @@ In today's lecture, we'll dive into Convolutional Neural Networks (CNNs) and the
 - Apply CNNs to core computer vision tasks: image classification, object detection, and segmentation
 - Master practical considerations including data augmentation, batch normalization, and GPU acceleration
 - Explore modern architectural innovations like skip connections, inception modules, and attention mechanisms
--
+
 **Laboratory**
 - TBA
 
