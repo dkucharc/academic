@@ -11,7 +11,7 @@ categories:
 
 
 draft: false
-pin: true
+pin: false
 ---
 
 # Week #7 - Efficient training of neural networks
