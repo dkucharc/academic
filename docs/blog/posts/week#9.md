@@ -10,7 +10,8 @@ categories:
   - Winter 2025/2026
 
 
-draft: true
+draft: false
+pin: true
 ---
 
 # Week #9 - Convolutional Neural Networks
