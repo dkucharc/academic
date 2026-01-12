@@ -37,5 +37,7 @@ In today's lecture, we'll dive into Convolutional Neural Networks (CNNs) and the
 
 **Resources**
 - [Pytorch - official page](https://pytorch.org/)
+
 - [Introduction to Pytorch by Sebastian Raschka](https://sebastianraschka.com/teaching/pytorch-1h/)
+
 - [MNIST - dataset](https://en.wikipedia.org/wiki/MNIST_database)
