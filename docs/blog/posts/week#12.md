@@ -13,5 +13,5 @@ categories:
 draft: false
 ---
 
-# Week #12 - Recurrent Neural Networks
+# Week #12 - Recurrent Neural Networks Cont.
 
