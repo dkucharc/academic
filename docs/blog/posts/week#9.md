@@ -43,6 +43,8 @@ In today's lecture, we'll dive into Convolutional Neural Networks (CNNs) and the
 
 - [MNIST - dataset](https://en.wikipedia.org/wiki/MNIST_database)
 
+- [ImageNet Large Scale Visual Recognition Challenge (ILSVRC)](https://www.image-net.org/challenges/LSVRC/)
+
 - [Understanding Convolution Neural Networks (Part 1)
 ](https://medium.com/@siddheshb008/understanding-convolution-neural-networks-a30211e12a06)
 
