@@ -33,6 +33,7 @@ In today's lecture, we'll dive into Convolutional Neural Networks (CNNs) and the
 - Explore modern architectural innovations like skip connections, inception modules, and attention mechanisms
 
 **Laboratory**
+
 - https://classroom.github.com/a/X-bzVHSh
 
 **Resources**
