@@ -42,3 +42,9 @@ In today's lecture, we'll dive into Convolutional Neural Networks (CNNs) and the
 - [Introduction to Pytorch by Sebastian Raschka](https://sebastianraschka.com/teaching/pytorch-1h/)
 
 - [MNIST - dataset](https://en.wikipedia.org/wiki/MNIST_database)
+
+- [Understanding Convolution Neural Networks (Part 1)
+](https://medium.com/@siddheshb008/understanding-convolution-neural-networks-a30211e12a06)
+
+- [Understanding Convolution Neural Networks (Part 2)
+](https://medium.com/@siddheshb008/understanding-convolutional-neural-networks-part-2-98694dd47923)
