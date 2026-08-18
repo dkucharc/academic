@@ -1,24 +1,8 @@
 site_name: DK Academic Page
 nav:
   - Home: index.md
-  - Teaching:
-      - Intro: blog/index.md
-  - Developer Guide:
-    - Getting Started:
-        - Intro: dev-guide/getting-started/intro.md
-        - IDE Setup: dev-guide/getting-started/ide_setup.md
-        - Python Management: dev-guide/getting-started/python_management.md
-        - Version Control: dev-guide/getting-started/version_control.md
-    - Clean Code:
-        - Overview: dev-guide/clean-code/index.md
-        - Python Standards: dev-guide/clean-code/python-standards.md
-        - Style Guidelines: dev-guide/clean-code/style-guidelines.md
-        - Linting & Formatting: dev-guide/clean-code/linting-formatting.md
-        - Type Hints: dev-guide/clean-code/type-hints.md
-        - Documentation: dev-guide/clean-code/documentation.md
-        - Best Practices: dev-guide/clean-code/best-practices.md
-        - Workflow Integration: dev-guide/clean-code/workflow-integration.md
-    - Working With The Code: dev-guide/project_structure.md
+#  - Teaching:
+#      - Intro: blog/index.md
 theme:
   name: material
   features:
@@ -27,10 +11,10 @@ theme:
     text: Roboto
 plugins:
   - tags
-  - search
-  - blog:
-      blog_toc: true
-      post_date_format: long
+#  - search
+#  - blog:
+#      blog_toc: true
+#      post_date_format: long
 
 extra:
   social:

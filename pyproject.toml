@@ -1,16 +1,11 @@
-[tool.poetry]
+[project]
 name = "academic"
 version = "0.0.0"
 description = "Academic Page"
-authors = ["Daniel Kucharczyk <dk>"]
-package-mode = false
-
-[tool.poetry.dependencies]
-python = ">=3.10,<3.12"
-mkdocs = "^1.6.1"
-mkdocs-material = "^9.5.39"
-mkdocs-section-index = "^0.3.10"
-
-[build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+authors = [{ name = "Daniel Kucharczyk", email = "dk" }]
+requires-python = ">=3.10,<3.12"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.5.39",
+    "mkdocs-section-index>=0.3.10",
+]

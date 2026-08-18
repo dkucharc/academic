@@ -4,4 +4,4 @@ pc:
 
 # Serve the MkDocs hooks on all files
 serve:
-    poetry run mkdocs serve
+    uv run mkdocs serve
